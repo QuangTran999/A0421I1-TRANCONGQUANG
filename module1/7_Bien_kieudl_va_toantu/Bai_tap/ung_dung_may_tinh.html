@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <input type="text" name="a" id="a">
+    <input type="text" name="b" id="b">
+    <br>
+    <button type="button" onclick="a()">Addtion(+)</button>
+    <button type="button" onclick="b()">Subtraction(-)</button>
+    <button type="button" onclick="c()">Multiplication(*)</button>
+    <button type="button" onclick="d()">Division(/)</button>
+    <br>
+    <p id="expression"></p>
+</body>
+</html>
+<script>
+    function a() {
+        let a = document.getElementById("a").value;
+        let b = document.getElementById("b").value;
+        let c = a+b;
+        document.getElementById("expression").innerText = 'Result Addtion: ' +c;
+    }
+    function b() {
+        let a = document.getElementById("a").value;
+        let b = document.getElementById("b").value;
+        document.getElementById("expression").innerText = 'Result Subtraction: '+(a-b);
+    }
+    function c() {
+        let a = document.getElementById("a").value;
+        let b = document.getElementById("b").value;
+        document.getElementById("expression").innerText = 'Result Multiplication: '+(a*b);
+    }
+    function d() {
+        let a = document.getElementById("a").value;
+        let b = document.getElementById("b").value;
+        document.getElementById("expression").innerText = 'Result Division: '+(a/b);
+    }
+</script>
