@@ -5,8 +5,14 @@
     <title>Title</title>
 </head>
 <body>
-    <img src="1.png" style="width: 200px; height: 200px; right: 5000px"><br>
+    <img src="1.png" id="demo" style="width: 200px; height: 200px; right: 5000px" hspace="50"><br>
     <p><b>Click button bellow to move the image to right</b></p><br>
-    <button type="button">Button</button>
+    <button type="button" onclick="click()">Button</button>
+    <script>
+        function click() {
+            let click = document.getElementById("demo").value;
+            click.hspace= parseInt(click.hspace).value + 10;
+        }
+    </script>
 </body>
 </html>

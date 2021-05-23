@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th colspan="2">Thu nhập chịu thuế = Tổng thu nhập - Các khoản được miễn thuế</th>
+        </tr>
+        <tr>
+            <td>Tổng thu nhập: </td>
+            <td><input type="text" name="tong_thu_nhap" id="tong_thu_nhap"></td>
+        </tr>
+        <tr>
+            <td>Các khoản được miễn thuế:</td>
+            <td>
+                <input type="text" name="cac_khoan_duoc_mien_thue" id="cac_khoan_duoc_mien_thue"><br>
+            </td>
+        </tr>
+        <tr>
+            <td><button type="button" name="thu_nhap_chiu_thue" onclick="thu_nhap_chiu_thue()">Thu nhập chịu thuế</button></td>
+            <td><input type="text" id="thu_nhap_chiu_thue"></td>
+        </tr>
+
+        <tr>
+            <th colspan="2">Thu nhập tính thuế = Thu nhập tính thuế - Các khoản giảm trừ</th>
+        </tr>
+        <tr>
+            <td>Các khoản giảm trừ: </td>
+            <td><input type="text" name="cac_khoan_giam_tru" id="cac_khoan_giam_tru"></td>
+        </tr>
+        <tr>
+            <td><button type="button" name="cac_khoan_giam_tru" onclick="thu_nhap_tinh_thue()">Các khoản giảm trừ</button></td>
+            <td><input type="text" id="thu_nhap_tinh_thue"></td>
+        </tr>
+
+        <tr>
+            <th colspan="2">Thuế TNCC phải nộp = Thu nhập tính thuế * thuế suất</th>
+        </tr>
+        <tr>
+            <td>Thuế suất: </td>
+            <td><input type="text" id="thue_suat" name="thue_suat"></td>
+        </tr>
+        <tr>
+            <td><button type="button" name="tncc_phai_nap" onclick="tncc_phai_nop()">TNCC phải nộp</button></td>
+            <td><input type="text" name="tncc_phai_nop" id="tncc_phai_nop"></td>
+        </tr>
+    </table>
+
+    <script>
+        function thu_nhap_chiu_thue() {
+            let tong_thu_nhap = document.getElementById("tong_thu_nhap").value;
+            let cac_khoan_duoc_mien_thue = document.getElementById("cac_khoan_duoc_mien_thue").value;
+            document.getElementById("thu_nhap_chiu_thue").value = eval(tong_thu_nhap - cac_khoan_duoc_mien_thue);
+        }
+        
+        function thu_nhap_tinh_thue() {
+            let thu_nhap_chiu_thue = document.getElementById("thu_nhap_chiu_thue").value;
+            let cac_khoan_giam_tru = document.getElementById("cac_khoan_giam_tru").value;
+            document.getElementById("thu_nhap_tinh_thue").value = eval(thu_nhap_chiu_thue - cac_khoan_giam_tru);
+        }
+
+        function tncc_phai_nop() {
+            let thue_suat = document.getElementById("thue_suat").value;
+            let thu_nhap_tinh_thue = document.getElementById("thu_nhap_tinh_thue").value;
+            document.getElementById("tncc_phai_nop").value = thu_nhap_tinh_thue*thue_suat;
+        }
+    </script>
+
+<!--    <script>-->
+<!--        let tong_thu_nhap = prompt("Tổng thu nhập: ");-->
+<!--        let cac_khoan_duoc_mien_thue = prompt("Các khoản được miễn thuế: ");-->
+<!--        let thu_nhap_chiu_thue = tong_thu_nhap - cac_khoan_duoc_mien_thue;-->
+
+<!--        let cac_khoan_giam_tru = prompt("Các khoản giảm trừ: ");-->
+<!--        let thu_nhap_tinh_thue = thu_nhap_chiu_thue - cac_khoan_giam_tru;-->
+
+<!--        let thue_suat = prompt("Thuế suất: ");-->
+<!--        let thue_TNCC_phai_nop = thu_nhap_tinh_thue * thue_suat;-->
+<!--        alert("Thuế TNCC phải nộp là: "+thue_TNCC_phai_nop);-->
+<!--    </script>-->
+
+</body>
+</html>
