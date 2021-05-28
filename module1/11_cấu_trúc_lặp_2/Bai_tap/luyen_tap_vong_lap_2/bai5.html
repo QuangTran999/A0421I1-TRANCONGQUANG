@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    // FV = PV x (1 + i)^n
+    var PV = prompt("Nhập số tiền ban đầu: ");
+    var i = prompt("Nhập số phần trăm lãi trong tháng: ");
+    var n = prompt("Nhập số tháng cần tính lãi: ");
+    var FV = pow(PV * (1 + i),n);
+    alert("Số tiền gốc lần lãi sau "+ n + "tháng là: "+ FV);
+</script>
+
+</body>
+</html>

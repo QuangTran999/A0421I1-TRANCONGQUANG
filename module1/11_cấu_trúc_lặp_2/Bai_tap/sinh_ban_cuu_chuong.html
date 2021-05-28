@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var soup = "<table border='1' cellpadding='10'>";
+    for (var i=1; i<=10 ; i++){
+        soup = soup + "<tr>";
+        for (var j=2; j<10;j++){
+            soup = soup + "<td>" + j + "x" + i + "=" + i*j + "</td>";
+        }
+        soup = soup + "</tr>";
+    }
+    document.write(soup);
+</script>
+
+</body>
+</html>
