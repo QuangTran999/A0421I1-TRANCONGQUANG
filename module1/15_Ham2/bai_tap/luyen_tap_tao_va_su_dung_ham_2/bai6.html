@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function check(a) {
+        if (a>0 || a%0==0 || a%0==1){
+            alert(a + " Là số nguyên dương");
+        }else if (a==0){
+            alert(a + " không âm, không dương");
+        }else {
+            alert(a + " là số nguyên âm");
+        }
+
+    }
+    do {
+        var a = prompt("Inpur: ")
+    }while (a>'A' && a<'z');
+    check(a);
+</script>
+
+</body>
+</html>

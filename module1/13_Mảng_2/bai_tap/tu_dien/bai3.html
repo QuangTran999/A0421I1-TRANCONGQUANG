@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var arr = [];
+    var max = 0;
+    var avg =0;
+    for (let i=0; i<10; i++){
+        arr[i] = parseInt(prompt("Nhập vào mảng: "));
+    }
+    for (let i=0; i<10; i++){
+        if (max<arr[i]){
+            max = arr[i];
+        }
+    }
+    for (let i=0; i<10; i++){
+        avg = avg + arr[i];
+    }
+    avg = avg/10;
+
+    var index = arr.indexOf(max);
+    document.write("số lớn nhất trong mãng là "+ max + " tại vị trí "+ index+"<br>");
+    document.write(("Trung bình cộng của mảng là: "+ avg));
+</script>
+</body>
+</html>

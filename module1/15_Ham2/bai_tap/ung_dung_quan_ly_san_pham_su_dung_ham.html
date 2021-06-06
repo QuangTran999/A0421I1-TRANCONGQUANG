@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    <p><b>ADD NEW PRODUCE</b></p>
+    <p style="height: 50px; width: 300px ; background-color: #dddddd" ><br>
+        <span style="margin-left: 40px" ><input type="text" id="add" >
+        <input type="button" value="Add" style="background-color: chartreuse" onclick="add();"></span>
+    </p>
+
+    <br>
+    <p><b>Display All Produce</b></p>
+    <p id="show"></p>
+
+<script>
+    var arr = ["Sony Xperia", "Samsum Galaxy", "Nokia 6", "Xiaomi Redmi Note 4",
+        "Apple Iphone 6S", "Xiaomi Mi 5s Plus", "Apple Iphone 8 Plus", "Fujitsu F-04E", "Oppo A71"];
+    function show(arr) {
+        var soup = "<table cellpadding='7' width='50%' >"
+        for (let i = 0; i <arr.length ; i++) {
+            if (i%2==0){
+                soup = soup + "<tr>"
+            }else if (i%2!=0){
+                soup = soup + "<tr style='background-color: #dddddd'>"
+            }
+                soup = soup + "<td>" + arr[i] + "</td>"
+                + "<td>" + "<input type='button' value='Edit' style='background-color: chartreuse'>" + "</td>" +"<td>" +
+                    "<input type='button' value='Delete' style='background-color: chartreuse'>" + "</td>"
+            soup = soup + "</tr>"
+        }
+        soup = soup + "</table>";
+        return soup;
+    }
+    var soup = show(arr);
+    document.getElementById("show").innerHTML = soup;
+    function add() {
+        var value = document.getElementById("add").value;
+        arr.push(value);
+        document.getElementById("show").innerHTML = '';
+        var soup = "<table cellpadding='7' width='50%' >"
+        for (let i = 0; i <arr.length ; i++) {
+            if (i%2==0){
+                soup = soup + "<tr>"
+            }else if (i%2!=0){
+                soup = soup + "<tr style='background-color: #dddddd'>"
+            }
+            soup = soup + "<td>" + arr[i] + "</td>"
+                + "<td>" + "<input type='button' value='Edit' style='background-color: chartreuse'>" + "</td>" +"<td>" +
+                "<input type='button' value='Delete' style='background-color: chartreuse'>" + "</td>"
+            soup = soup + "</tr>"
+        }
+        soup = soup + "</table>";
+        document.getElementById("show").innerHTML = soup;
+    }
+</script>
+
+</body>
+</html>

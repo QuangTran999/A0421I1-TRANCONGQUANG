@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<SCRIPT>
+    function isPalindrome(string) {
+        var first = 0;
+        var last = string.length - 1;
+        while (first < last) {
+            if (string[first] !== string[last]) {
+                return false;
+            }
+            first++;
+            last--;
+        }
+        return true;
+    }
+    var string = 'string';
+
+    if (isPalindrome(string)){
+        document.write("Là chuổi đảo ngược.");
+    }else {
+        document.write("không phải là số đảo ngược.")
+    }
+</SCRIPT>
+
+</body>
+</html>

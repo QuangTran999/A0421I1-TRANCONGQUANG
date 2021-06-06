@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var arr = [];
+    for (let i=0; i<10; i++){
+        arr[i] = parseInt(prompt("Nhập vào mảng: "));
+    }
+
+    var a = parseInt(prompt("Nhập phần tử cần tìm kiếm: "));
+    var index = arr.indexOf(a);
+    document.write(index + "<br>");
+    document.write(arr + "<br>");
+
+
+    if (index>=0){
+        let tam = arr[index];
+        for (let i = index; i<9;i++){
+            arr[i]= arr[i+1];
+        }
+        arr[arr.length-1] = tam;
+        arr.pop();
+        document.write(arr);
+        // arr.splice(index,1);
+    }else {
+        document.write("Không tìm thấy phần tử index trong mãng");
+    }
+    // document.write(arr);
+
+</script>
+
+</body>
+</html>

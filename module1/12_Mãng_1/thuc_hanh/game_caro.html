@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <p>Game Caro Simple</p>
+    <p id="value"></p>
+    <br>
+    <input type="button" value="Change Value" onclick="play();">
+    <script>
+        var m = parseInt(prompt("Nhập số hàng bàn cờ caro: "));
+        var n = parseInt(prompt("Nhập số cột bàn cờ caro: "));
+        var arr = [];
+        var soup = "<br>";
+
+        for (let i=0; i<m;i++){
+            arr[i] = [];
+            for (let j=0; j<n ; j++){
+                arr[i][j]='0';
+                soup = soup + arr[i][j] + "&nbsp;&nbsp;";
+            }
+            soup = soup + "<br>";
+        }
+        document.getElementById("value").innerHTML = soup;
+        function play() {
+            var col = parseInt(prompt("Nhập hàng thứ: "));
+            var row = parseInt(prompt("Nhập cột thứ: "));
+            var arr = [];
+            for (let i = 0; i < m; i++) {
+                arr[i] = [];
+                for (let j = 0; j < n; j++) {
+                    if (arr[col][row] == arr[i][j]) {
+                        arr[i][j] = '0';
+                        soup = soup + arr[i][j] + "&nbsp;&nbsp;";
+                    }
+                    soup = soup + "<br>";
+                }
+            }
+        }
+
+    </script>
+</body>
+</html>
