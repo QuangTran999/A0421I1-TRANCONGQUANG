@@ -10,34 +10,48 @@
     <br>
     <input type="button" value="Change Value" onclick="play();">
     <script>
-        var m = parseInt(prompt("Nhập số hàng bàn cờ caro: "));
-        var n = parseInt(prompt("Nhập số cột bàn cờ caro: "));
-        var arr = [];
-        var soup = "<br>";
-
-        for (let i=0; i<m;i++){
-            arr[i] = [];
-            for (let j=0; j<n ; j++){
-                arr[i][j]='0';
-                soup = soup + arr[i][j] + "&nbsp;&nbsp;";
-            }
-            soup = soup + "<br>";
+        let board = [];
+        let data = "";
+        for (let i = 0; i < 5; i++) {
+            board[i] = new Array(0, 0, 0, 0, 0);
         }
-        document.getElementById("value").innerHTML = soup;
+
+        for (let i = 0; i < 5; i++) {
+            data += "<br/>";
+            for (let j = 0; j < 5; j++) {
+                data += board[i][j] + "&nbsp;&nbsp;";
+            }
+        }
+        document.getElementById("value").innerHTML = data;
+
         function play() {
-            var col = parseInt(prompt("Nhập hàng thứ: "));
-            var row = parseInt(prompt("Nhập cột thứ: "));
-            var arr = [];
-            for (let i = 0; i < m; i++) {
-                arr[i] = [];
-                for (let j = 0; j < n; j++) {
-                    if (arr[col][row] == arr[i][j]) {
-                        arr[i][j] = '0';
-                        soup = soup + arr[i][j] + "&nbsp;&nbsp;";
-                    }
-                    soup = soup + "<br>";
+            do {
+                var row = prompt("Mời bạn nhập vị trí hàng cần đánh: ");
+            }while (row<0 || row>5);
+            do {
+                var place = prompt("Mời bạn nhập vị trí của hàng đó: ");
+            }while (place<0 || place>5);
+
+            if (board[row-1][place-1] == 'x'){
+                alert("Vị trí trùng! Mời bạn nhập lại");
+                do {
+                    var row = prompt("Mời bạn nhập vị trí hàng cần đánh: ");
+                }while (row<0 || row>5);
+                do {
+                    var place = prompt("Mời bạn nhập vị trí của hàng đó: ");
+                }while (place<0 || place>5);
+            }
+            board[row-1][place-1] = 'x';
+            var data = "";
+
+            for (let i = 0; i < 5; i++) {
+                data += "<br/>";
+                for (let j = 0; j < 5; j++) {
+                    data += board[i][j] + "&nbsp;&nbsp;";
                 }
             }
+            document.getElementById("value").innerHTML = "";
+            document.getElementById("value").innerHTML = data;
         }
 
     </script>
