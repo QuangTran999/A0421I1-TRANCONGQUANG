@@ -53,12 +53,30 @@
                 soup = soup + "<tr style='background-color: #dddddd'>"
             }
             soup = soup + "<td>" + arr[i] + "</td>"
-                + "<td>" + "<input type='button' value='Edit' style='background-color: chartreuse' onclick='edit("+i+");>" + "</td>" +"<td>" +
+                + "<td>" + "<input type='button' value='Edit' style='background-color: chartreuse' onclick='edit("+i+");'>" + "</td>" +"<td>" +
                 "<input type='button' value='Delete' style='background-color: chartreuse' onclick='delete1("+i+");'>" + "</td>";
             soup = soup + "</tr>"
         }
         soup = soup + "</table>";
         document.getElementById("show").innerHTML = soup;
+        // var soup = "<table cellpadding='7' width='50%' >";
+        // soup = soup + "<tr>"+"<td>"+ "<b>"+"Produce name"+"</b>" + "</td>" +
+        //     "<td colspan='2' style='text-align: right'>"+ "<b>"+ arr.length + " produce"+"</b>" + "</td>";
+        // for (let i = 0; i <arr.length ; i++) {
+        //     if (i%2==0){
+        //         soup = soup + "<tr>"
+        //     }else if (i%2!=0){
+        //         soup = soup + "<tr style='background-color: #dddddd'>"
+        //     }
+        //     soup = soup + "<td>" + arr[i] + "</td>"
+        //         + "<td>" + "<input type='button' value='Edit' style='background-color: chartreuse' onclick='edit("+i+");>" + "</td>" +"<td>" +
+        //         "<input type='button' value='Delete' style='background-color: chartreuse' onclick='delete1("+i+")'>" + "</td>";
+        //         soup = soup + `<td>${arr[i]}</td>
+        //                         <td><input type="button" value='Delete' style='background-color: chartreuse' onclick='delete1(${i})'></td>`;
+        //     soup = soup + "</tr>"
+        // }
+        // soup = soup + "</table>";
+        // document.getElementById("show").innerHTML = soup;
     }
     function delete1(i){
         var last = arr.length-1;

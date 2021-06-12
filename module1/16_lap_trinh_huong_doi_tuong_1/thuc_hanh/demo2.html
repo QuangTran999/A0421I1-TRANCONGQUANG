@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="button" onclick="on_off();" value="On_Off" >
+<input type="button" onclick="Check_status();" value="Check_Status" >
+<input type="button" onclick="Charge();" value="Charge">
+<input type="button" onclick="Editor();" value="Editor">
+<input type="button" onclick="Message();" value="Massage">
+<input type="button" onclick="showMessage();" value="Show Massage">
+<br>
+<p id="showMessge"></p>
+
+<br>
+
+<input type="button" onclick="nokia_on_off();" value="nokia_On_Off" >
+<input type="button" onclick="nokia_Check_status();" value="nokia_Check_Status" >
+<input type="button" onclick="nokia_Charge();" value="nokia_Charge">
+<input type="button" onclick="nokia_Editor();" value="nokia_Editor">
+<input type="button" onclick="nokia_Message();" value="nokia_Massage">
+<input type="button" onclick="nokia_showMessage();" value="nokia_Show Massage">
+<br>
+<p id="nokia_showMessge"></p>
+
+<script>
+    var i = 0;
+    function Mobile(name,batery, memory1,memory2,memory3) {
+        this.name = name;
+        this.batery = batery;
+        this.memory1 = memory1;
+        this.memory2 = memory2;
+        this.memory3 = memory3;
+        this.origin = function () {
+            if (i%2==0){
+                return true;
+            }else{
+                return false;
+            }
+        };
+
+        this.on_off = function () {
+            if(this.origin()){
+                alert("điện thoại đang bật");
+            }else {
+                alert("điện thoại đang tắt");
+            }
+            i++;
+        };
+        this.charging = function () {
+            if (this.batery>90){
+                alert("Sạc pin đầy");
+            }else {
+                this.batery = this.batery + 5;
+                alert(this.batery);
+            }
+        };
+        
+        this.getEdtor = function (name) {
+            var ed=prompt("Mời bạn nhập tin nhắn: ");
+            if (name=='iphone'){
+                stringEditor = ed;
+            }else if (name=='nokia'){
+                stringEditor_nokia = ed;
+            }
+
+        };
+
+        this.messaging = function (name) {
+            var key = prompt("Mời bạn nhập tên hoặc SĐT người nhận: ");
+            var value = prompt("Mời bạn nhập nội dung tin nhắn");
+                var person = {
+                    name : key,
+                    valueMS : value
+                };
+            if (name=='iphone'){
+                arrMessage.push(person);
+            }else if (name=='nokia'){
+                arrMessage_nokia.push(person);
+            }
+        };
+
+        // this.inbox = function () {
+        //   var
+        // }
+    }
+    var mobile = new Mobile('iphone',10,5,6,3);
+    var arrMessage = new Array();
+    var stringEditor = new String();
+    function on_off() {
+        mobile.on_off();
+    }
+    function Check_status() {
+        if (i%2!=0){
+            alert("điện thoại đang bật");
+        }else{
+            alert("điện thoại đang tắt");
+        }
+    }
+
+    function Charge() {
+         mobile.charging();
+    }
+    function Editor() {
+        mobile.getEdtor();
+
+        while (stringEditor.length>mobile.memory1){
+            alert("Đoạn tin nhắn quá dài vui lòng nhập lại");
+            var ed=prompt("Mời bạn nhập tin nhắn: ");
+            stringEditor = ed;
+        }
+    }
+
+    function Message() {
+        if (arrMessage.length<mobile.memory3){
+            mobile.messaging(mobile.name);
+        }else {
+            alert("Bộ nhớ đầy");
+        }
+    }
+    function showMessage() {
+        document.getElementById("showMessge").innerHTML = "";
+        var soup = 'Tin đã gửi: <br>';
+        for (let i in arrMessage){
+            soup = soup + "Name: "+arrMessage[i].name +"<br>"+"Massged: "+arrMessage[i].valueMS +"<br><br>"
+        }
+        document.getElementById("showMessge").innerHTML = soup;
+    }
+
+
+    ///////////////////////------------
+
+    var nokia = new Mobile('nokia',10,5,6,3);
+    var arrMessage_nokia = new Array();
+    var stringEditor_nokia = new String();
+    function on_off() {
+        nokia.on_off();
+    }
+    function nokia_Check_status() {
+        if (i%2!=0){
+            alert("điện thoại đang bật");
+        }else{
+            alert("điện thoại đang tắt");
+        }
+    }
+
+    function nokia_Charge() {
+        nokia.charging();
+    }
+    function nokia_Editor() {
+        nokia.getEdtor();
+
+        while (stringEditor_nokia.length>nokia.memory1){
+            alert("Đoạn tin nhắn quá dài vui lòng nhập lại");
+            var ed=prompt("Mời bạn nhập tin nhắn: ");
+            stringEditor_nokia = ed;
+        }
+    }
+
+    function nokia_Message() {
+        if (arrMessage_nokia.length<nokia.memory3){
+            nokia.messaging(nokia.name);
+        }else {
+            alert("Bộ nhớ đầy");
+        }
+    }
+    function nokia_showMessage() {
+        document.getElementById("showMessge").innerHTML = "";
+        var soup = 'Tin đã gửi: <br>';
+        for (let i in arrMessage_nokia){
+            soup = soup + "Name: "+arrMessage_nokia[i].name +"<br>"+"Massged: "+arrMessage_nokia[i].valueMS +"<br><br>"
+        }
+        document.getElementById("nokia_showMessge").innerHTML = soup;
+    }
+
+</script>
+
+</body>
+</html>
