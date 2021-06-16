@@ -6,8 +6,23 @@
 </head>
 <body>
 <script>
-    var d = new Date('2021-6-12 9:43:05');
-    document.write(d);
+
+    function swap(arr) {
+        //your code here
+        var first = 0;
+        var last = arr.length-1;
+        while(first<last){
+            var tam = arr[first];
+            arr[first]=arr[last];
+            arr[last] = tam;
+            first++;
+            last--;
+        }
+        var arrnew=arr;
+        return arrnew;
+    }
+    var arr=[1,2,3,4];
+    document.write(swap(arr));
 </script>
 
 </body>
