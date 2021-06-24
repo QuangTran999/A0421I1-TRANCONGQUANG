@@ -6,45 +6,71 @@
 </head>
 <body>
 <script>
-    class car{
-        constructor(name, model, weight, color) {
-            this.name = name;
-            this.model = model;
-            this.weight = weight;
-            this.color = color;
+    // class car{
+    //     constructor(name, model, weight, color) {
+    //         this.name = name;
+    //         this.model = model;
+    //         this.weight = weight;
+    //         this.color = color;
+    //     }
+    //
+    //     setName(name){
+    //         this.name = name;
+    //     }
+    //     getName(name){
+    //         return this.name;
+    //     }
+    //     setModel(model){
+    //         this.model = model;
+    //     }
+    //     getModel(model){
+    //         return this.model;
+    //     }
+    //     setName(weight){
+    //         this.weight = weight;
+    //     }
+    //     getName(weight){
+    //         return this.weight;
+    //     }
+    //     setModel(color){
+    //         this.color = color;
+    //     }
+    //     getModel(color){
+    //         return this.color;
+    //     }
+    //     start(){}
+    //     dive(){}
+    //     stop(){}
+    //     brake(){}
+    //     toString(){}
+    //
+    // }
+    // function staircase(n) {
+    //     // Write your code here
+    //     for(let i=0;i<n;i++){
+    //         for(let j=0;j<(n-1-i);j++){
+    //             document.write('&nbsp;&nbsp;');
+    //         }
+    //         for(let h=n;h>n-i;h--){
+    //             document.write("#");
+    //         }
+    //         document.write("<br>");
+    //     }
+    //
+    // }
+    // staircase(100);
+    function miniMaxSum(arr) {
+        // Write your code here
+        var sum =0;
+        for(let i=0;i<arr.length;i++){
+            sum = sum + arr[i];
         }
-
-        setName(name){
-            this.name = name;
-        }
-        getName(name){
-            return this.name;
-        }
-        setModel(model){
-            this.model = model;
-        }
-        getModel(model){
-            return this.model;
-        }
-        setName(weight){
-            this.weight = weight;
-        }
-        getName(weight){
-            return this.weight;
-        }
-        setModel(color){
-            this.color = color;
-        }
-        getModel(color){
-            return this.color;
-        }
-        start(){}
-        dive(){}
-        stop(){}
-        brake(){}
-        toString(){}
-
+        var min = sum - Math.max(arr);
+        var max = sum - Math.min(arr);
+        console.log(min, max)
     }
+    var arr=[1,2,3,4,5];
+    miniMaxSum(arr);
 </script>
 
 </body>

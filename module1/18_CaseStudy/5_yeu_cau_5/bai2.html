@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<SCRIPT>
+    var m = prompt("Nhập số hàng: ");
+    var n = prompt("Nhập số cột: ");
+    var arr=[];
+    var arr_SNT = [];
+    var count = 0;
+    var count_SNT = 0;
+    for (let i=0;i<m;i++){
+        arr[i] = new Array();
+        for (let j=0;j<n;j++){
+            arr[i][j]=prompt("");
+        }
+        document.write(arr[i]+"<br>");
+    }
+    for (let i=0;i<m;i++){
+        for (let j=0;j<n;j++){
+            if (arr[i][j]<2){
+                continue;
+            }else{
+                for (let d=1;d<arr[i][j];d++){
+                    if(arr[i][j]%2==0){
+                        count++;
+                    }
+                }
+                if (count<2){
+                    arr_SNT.push(arr[i][j]);
+                    count_SNT++
+                }
+                count = 0;
+            }
+        }
+    }
+    document.write("Có " +count_SNT+" Số nguyên tố có trong mảng là: "+arr_SNT);
+</SCRIPT>
+
+</body>
+</html>
