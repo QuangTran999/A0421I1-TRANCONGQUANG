@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var s1 = 'cabca';
+    var s2 = 'adcaa';
+    var s = '';
+    var count = 0;
+    for (let i=0;i<s1.length;i++){
+        if (s2.indexOf(s1[i])!=-1){
+            s = s + s1[i];
+            s2 = s2.substr(s2.indexOf(s1[i]),s2.indexOf(s1[i])+1)
+            count++;
+        }
+    }
+    document.write("2 xâu s1 và s2 có "+count+" kí tự chung: "+s);
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<h1>Xổ số CodeGym</h1>
+<p id = "show"></p>
+<input type="button" value="Mua vé" onclick="buy();">
+<input type="button" value="Xem kết quả" onclick="kq();">
+<script>
+    // b1: xây dựng các nút
+    // b2: xây dựng các ô số bằng text(tối đa 4 vé)
+    // b3: - Nếu khách hàng chọn tự nhập thì cứ mỗi ô tròn KH click vào sẽ hiển thị 1 bảng chọn số từ 0-99
+    // - Nếu khách hàng chọn tuỳ chọn random thì hệ thống sẽ tự động tạo ra 6 số tương ứng 6 ô tròn
+    // b4: Sau khi khách hàng hoàn tất việc chọn số trên vé thì nhấn hoàn tất để thực hiện quay số
+    var b1 = '';
+    var count = 0;
+    function buy() {
+        if (count<4){
+            do {
+                var chosse = prompt('Bạn có 2 lựa chon:\n1: Bạn muố tự chọn số. \n2: Hệ thống tự random.' );
+            }while (chosse<0 || chosse>2);
+            if (chosse==1){
+                for (let i=0;i<6;i++){
+                    b1 = b1 + '<input type="text" style="width:40px" id="text'+count+i+'">'
+                }
+                count++;
+            }else if (chosse==2){
+                for (let i=0;i<6;i++){
+                    b1 = b1 + '<input type="text" style="width: 40px" value="'+Math.floor(Math.random()*10)+Math.floor(Math.random()*10)+'" id="text'+count+i+'">'
+                }
+                count++;
+            }
+            b1 = b1 + "<br><br>";
+            document.getElementById("show").innerHTML = b1;
+        }else {
+            alert("Vượt chỉ tiêu mua vé");
+        }
+    }
+    function kq() {
+        var list = '';
+        var buy = '';
+        var a0 = Math.floor(Math.random()*10);
+        var a1 = Math.floor(Math.random()*10);
+        var b0 = Math.floor(Math.random()*10);
+        var b1 = Math.floor(Math.random()*10);
+        var c0 = Math.floor(Math.random()*10);
+        var c1 = Math.floor(Math.random()*10);
+        var d0 = Math.floor(Math.random()*10);
+        var d1 = Math.floor(Math.random()*10);
+        var e0 = Math.floor(Math.random()*10);
+        var e1 = Math.floor(Math.random()*10);
+        var g0 = Math.floor(Math.random()*10);
+        var g1 = Math.floor(Math.random()*10);
+        list = list + a0 + a1 + b0 + b1 + c0 + c1 + d0 + d1 + e0 + e1 + g0 + g1;
+        document.write("Kết quả xổ số: ",list);
+        for (let i=0;i<=count;i++){
+            for (let j=0;j<6;j++){
+                var id = '';
+                id = id + 'text';
+                id = id + i;
+                id = id + j;
+                buy = buy + document.getElementById(id).value;
+                id='';
+            }
+            buy = buy + "<br>";
+            document.write(buy,"-----------");
+        }
+    }
+</script>
+</body>
+</html>

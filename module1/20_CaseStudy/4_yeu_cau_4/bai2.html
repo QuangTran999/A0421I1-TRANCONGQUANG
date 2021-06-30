@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var s = 'cabca';
+    var newS='';
+    var count = 0;
+    for (let i=0;i<s.length;i++){
+        if (newS.indexOf(s[i])==-1){
+            count++;
+            newS+=s[i];
+        }
+    }
+    document.write("Có ",count," từ khác nhau trong chuổi: ",newS);
+    // var des = "toidicode là trang web chuyên chia sẻ các tutorials về lập trình toidicode";
+    // var position = des.indexOf('toidicodesadsad');
+    // alert('Vị trí của chuỗi toidicode trong des là: ' + position);
+
+</script>
+
+</body>
+</html>

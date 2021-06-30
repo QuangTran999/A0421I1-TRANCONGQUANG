@@ -5,20 +5,25 @@
     <title>$Title$</title>
 </head>
 <body>
+    <p id="show"><img src="img/tat.jpg"></p>
+    <input type="button" value="Switch" onclick="switch_turn();">
     <script>
+        var count =0;
         class SwitchButton{//công tắc điện
             constructor(status, lamp) {
                 this.status = status;
                 this.lamp = lamp;
             }
-            connectToLamp(el){
-                this.el = el;
+            connectToLamp(el){//giá trị tùy thuộc vào el
+                    this.lamp==el.status;
             }
             switchOff(){
-                return this.el.turnOff();
+                count = count +1;
+                return "<img src='img/tat.jpg'>";
             }
             switchOn(){
-                return this.el.turnOn();
+                count = count +1;
+                return "<img src='img/bat.jpg'>";
             }
         }
         class ElectricLamp{//đèn
@@ -26,10 +31,31 @@
                 this.status = status;
             }
             turnOff(){
-
+                count = count +1;
+                if (this.status==false){
+                    return "<img src='img/tat.jpg'>";
+                }
+                return "<img src='img/bat.jpg'>"
             }
             turnOn(){
-document.write()
+                count = count + 1;
+                if (this.status){
+                    return "<img src='img/bat.jpg'>"
+                }
+                return "<img src='img/tat.jpg'>";
+            }
+        }
+        var el = new ElectricLamp(true);
+        var sb = new SwitchButton(false);
+        function switch_turn() {
+            if (count==10){
+                alert("Hết pin");
+            } else if (count%2==0){
+                var s = el.turnOn();
+                document.getElementById("show").innerHTML = s;
+            }else {
+                var t = sb.switchOff();
+                document.getElementById("show").innerHTML = t;
             }
         }
     </script>

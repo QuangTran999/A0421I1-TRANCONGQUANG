@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table>
+    <tr>
+        <th>Thức uống:</th>
+    </tr>
+    <tr>
+        <td>1. cafe</td>
+    </tr>
+    <tr>
+        <td>2. cam vắt</td>
+    </tr>
+    <tr>
+        <td>3. Nước ép cà rốt</td>
+    </tr>
+    <tr>
+        <td>4. Nước ép cà chua</td>
+    </tr>
+    <tr>
+        <td>5. Nước lọc</td>
+    </tr>
+    <tr>
+        <td>6. Nước dùa</td>
+    </tr>
+    <tr>
+        <td>7. Thoạt khoải món</td>
+    </tr>
+
+</table>
+<p id="thanhtien"><b></b></p>
+<!--<input type="text" id="sl" placeholder="Số lượng">-->
+<input type="button" value="Oder" onclick="oder()">
+<script>
+    function oder() {
+        var sum = 0;
+        var inf = '';
+        do {
+            var n = prompt("Mời bạn nhập số thự tự sản phẩm oder:");
+            if (n==7){
+                break;
+            }
+            var sl = prompt("Mời bạn nhập số lượng: ");
+            switch (n) {
+                case '1':
+                    sum = sum + sl * 12000;
+                    inf = inf + "Bạn đã đặt sô lượng " + sl + " Cafe <br>";
+                    break;
+                case '2':
+                    sum = sum + sl * 13000;
+                    inf = inf + "Bạn đã đặt sô lượng " + sl + " Căm vắt <br>";
+                    break;
+                case '3':
+                    sum = sum + sl * 14000;
+                    inf = inf + "Bạn đã đặt sô lượng " + sl + " Nước ép cà rốt <br>";
+                    break;
+                case '4':
+                    sum = sum + sl * 15000;
+                    inf = inf + "Bạn đã đặt sô lượng " + sl + " Nước ép cà chua <br>";
+                    break;
+                case '5':
+                    sum = sum + sl * 16000;
+                    inf = inf + "Bạn đã đặt sô lượng " + sl + " Nước lọc <br>";
+                    break;
+                default:
+                    sum = sum + sl * 17000;
+                    inf = inf + "Bạn đã đặt sô lượng " + sl + " Nước dùa <br>";
+
+            }
+            document.getElementById("thanhtien").innerHTML = inf + "<br>" + sum;
+        } while (n!=7);
+
+
+    }
+
+
+
+</script>
+
+</body>
+</html>
