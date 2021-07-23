@@ -12,8 +12,9 @@
     <script>
         let board = [];
         let data = "";
+        var count = 0;
         for (let i = 0; i < 5; i++) {
-            board[i] = new Array(0, 0, 0, 0, 0);
+            board[i] = new Array('.', '.', '.', '.', '.');
         }
 
         for (let i = 0; i < 5; i++) {
@@ -29,31 +30,55 @@
                 var row = prompt("Mời bạn nhập vị trí hàng cần đánh: ");
             }while (row<0 || row>5);
             do {
-                var place = prompt("Mời bạn nhập vị trí của hàng đó: ");
+                var place = prompt("Mời bạn nhập vị trí của cột đó: ");
             }while (place<0 || place>5);
 
-            if (board[row-1][place-1] == 'x'){
+            if (board[row-1][place-1] == 'x' || board[row-1][place-1] == 'o'){
                 alert("Vị trí trùng! Mời bạn nhập lại");
                 do {
                     var row = prompt("Mời bạn nhập vị trí hàng cần đánh: ");
                 }while (row<0 || row>5);
                 do {
-                    var place = prompt("Mời bạn nhập vị trí của hàng đó: ");
+                    var place = prompt("Mời bạn nhập vị trí của cột đó: ");
                 }while (place<0 || place>5);
             }
-            board[row-1][place-1] = 'x';
-            var data = "";
+            if (count%2==0){
+                board[row-1][place-1] = 'x';
+                count++;
+            }else {
+                board[row-1][place-1] = 'o';
+                count++;
+            }
+
+            let data = "";
 
             for (let i = 0; i < 5; i++) {
                 data += "<br/>";
                 for (let j = 0; j < 5; j++) {
-                    data += board[i][j] + "&nbsp;&nbsp;";
+                    data += board[i][j] + "&nbsp;&nbsp;&nbsp;&nbsp;";
                 }
             }
             document.getElementById("value").innerHTML = "";
-            document.getElementById("value").innerHTML = data;
+            document.getElementById("value").innerHTML = data; //kế hoach tài chính 137 nvl....tầng 3 phòng văn phòng tổng hợp
+            for (let i = 0; i < 5; i++) {
+                for (let j = 0; j < 5; j++) {
+                    if (board[i][j]=='x'&&board[i][j+1]=='x'&&board[i][j+2]=='x'){
+                        alert("Chúc mừng X bạn đã thắng.");
+                    }else if (board[i][j]=='o'&&board[i][j+1]=='o'&&board[i][j+2]=='o'){
+                        alert("Chúc mừng O bạn đã thắng.");
+                    }
+                }
+            }
+            for (let i = 0; i < 5; i++) {
+                for (let j = 0; j < 5; j++) {
+                    if (board[i][j]=='x'&&board[i+1][j+1]=='x'&&board[i+2][j+2]=='x'){
+                        alert("Chúc mừng X bạn đã thắng.");
+                    }else if (board[i][j]=='o'&&board[i+1][j+1]=='o'&&board[i+2][j+2]=='o'){
+                        alert("Chúc mừng O bạn đã thắng.");
+                    }
+                }
+            }
         }
-
     </script>
 </body>
 </html>
