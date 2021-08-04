@@ -10,6 +10,7 @@ public class HinhChuNhat {
         this.width = width;
         this.height = height;
     }
+
     public double getArea() {
         return this.width * this.height;
     }
