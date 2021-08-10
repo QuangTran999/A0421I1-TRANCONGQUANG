@@ -1,6 +1,6 @@
-package S6_Ke_Thua.Thuc_hanh.He_Cac_Doi_Tuong_Hinh_Hoc;
+package S7_AbstractClass_Interface.Bai_tap.trien_khai_interface_Colorable_cho_cac_lop_hinh_hoc;
 
-public class Shape {
+public class Shape implements Colorable{
     public String color="green";
     public boolean filled=true;
 
@@ -32,5 +32,10 @@ public class Shape {
                 + getColor()
                 + " and "
                 + (isFilled() ? "filled" : "not filled");
+    }
+
+    @Override
+    public void howToColor() {
+
     }
 }

@@ -1,4 +1,4 @@
-package S6_Ke_Thua.Thuc_hanh.He_Cac_Doi_Tuong_Hinh_Hoc;
+package S7_AbstractClass_Interface.Thuc_hanh.trien_khai_interface_Comparable_cho_cac_lop_hinh_hoc;
 
 public class Shape {
     public String color="green";

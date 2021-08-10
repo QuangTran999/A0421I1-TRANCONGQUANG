@@ -1,12 +1,12 @@
-package S6_Ke_Thua.Thuc_hanh.He_Cac_Doi_Tuong_Hinh_Hoc;
+package S7_AbstractClass_Interface.Thuc_hanh.Trien_khai_interface_Comparator_de_so_sanh_cach_lop_hinh_hoc;
 
 public class Shape {
     public String color="green";
     public boolean filled=true;
 
-    Shape(){
+    public Shape(){
     }
-    Shape(String color, boolean filled){
+    public Shape(String color, boolean filled){
         this.color = color;
         this.filled = filled;
     }
