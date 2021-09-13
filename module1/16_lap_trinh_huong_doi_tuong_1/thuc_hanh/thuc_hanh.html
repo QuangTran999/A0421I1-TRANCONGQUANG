@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<canvas id="myCanvas" width="200" height="100" style="border:1px solid #d3d3d3;">
+    Your broser does not support the HTML5 canvas tag.</canvas>
+<script>
+    //***demo
+    // function person(id,name,address) {
+    //     this.idi = id;
+    //     this.name = name;
+    //     this.address = address;
+    //     this.getInfor = function () {
+    //         return "ID = "+ this.idi + " Name= "+ this.name + " Address = "+this.address;
+    //     }
+    // }
+    // var person = new person(1,"Le Van A","Ha Noi");
+    // document.write(person.idi);
+
+    //**vẽ đường thẳng
+    // var c = document.getElementById("myCanvas");
+    // var ctx = c.getContext("2d");
+    // ctx.moveTo(30,50);//moveTo(top, left);
+    // ctx.lineTo(150,50);//tòa độ điểm(bellow, right)
+    // ctx.stroke();//vẽ đường dẫn
+
+    //**vẽ đường tròn
+    var c = document.getElementById("myCanvas");
+    var ctx = c.getContext("2d");
+    ctx.beginPath();//Bắt đầu nét vẽ
+    ctx.arc(150,50,40,0,2*Math.PI);//(x,y,r,start,end);
+    ctx.stroke();
+
+</script>
+
+</body>
+</html>

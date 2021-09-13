@@ -1,0 +1,155 @@
+<!--<!DOCTYPE html>-->
+<!--<html lang="en">-->
+<!--<head>-->
+<!--    <meta charset="UTF-8">-->
+<!--    <title>Máy tính đơn giản</title>-->
+<!--    <style>-->
+<!--        table{-->
+<!--            width: 16%;-->
+
+<!--        }-->
+<!--    </style>-->
+<!--</head>-->
+<!--<body>-->
+<!--    <table border="1">-->
+<!--        <tr>-->
+<!--            <td colspan="4"><input type="text" id="show" name="show" style="width: 200px" ></td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <td><button type="button" id="1" value="1" name="1" onclick="ham1();">1</button></td>-->
+<!--            <td><button type="button" id="2" value="2" name="2" onclick="ham2();">2</button></td>-->
+<!--            <td><button type="button" id="3" value="3" name="3" onclick="ham3();">3</button></td>-->
+<!--            <td><button type="button" id="add" value="+" name="+" onclick="add()">+</button></td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <td><button type="button" id="4" value="4" name="4">4</button></td>-->
+<!--            <td><button type="button" id="5" value="5" name="5">5</button></td>-->
+<!--            <td><button type="button" id="6" value="6" name="6">6</button></td>-->
+<!--            <td><button type="button" value="-" name="-">-</button></td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <td><button type="button" id="7" value="7" name="7">7</button></td>-->
+<!--            <td><button type="button" id="8" value="8" name="8">8</button></td>-->
+<!--            <td><button type="button" id="9" value="9" name="9">9</button></td>-->
+<!--            <td><button type="button" value="*" name="*">x</button></td>-->
+<!--        </tr>-->
+<!--        <tr>-->
+<!--            <td><button type="button" value="c" name="c">c</button></td>-->
+<!--            <td><button type="button" id="0" value="0" name="0">0</button></td>-->
+<!--            <td><button type="button" id="result" value="=" name="=" onclick="result()">=</button></td>-->
+<!--            <td><button type="button" value="/" name="/">/</button></td>-->
+<!--        </tr>-->
+
+<!--    </table>-->
+
+<!--    <script>-->
+<!--        var chuoi = '';-->
+<!--        function ham1() {-->
+<!--            let gt = document.getElementById("1").value;-->
+<!--            chuoi = chuoi + gt;-->
+<!--            document.getElementById("show").value = chuoi;-->
+<!--        }-->
+<!--        function ham2() {-->
+<!--            let gt = document.getElementById("2").value;-->
+<!--            chuoi = chuoi + gt;-->
+<!--            document.getElementById("show").value = chuoi;-->
+<!--        }-->
+<!--        function ham3() {-->
+<!--            let gt = document.getElementById("3").value;-->
+<!--            chuoi = chuoi + gt;-->
+<!--            document.getElementById("show").value = chuoi;-->
+<!--        }-->
+<!--        function add() {-->
+<!--            let gt = document.getElementById("add").value;-->
+<!--            chuoi = chuoi + gt;-->
+<!--            document.getElementById("show").value = chuoi;-->
+<!--        }-->
+<!--        function result() {-->
+<!--            console.log(chuoi);-->
+<!--        }-->
+<!--    </script>-->
+<!--</body>-->
+<!--</html>-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<table>
+    <tr>
+        <td colspan="4"><input type="text" id="ketQua"></td>
+    </tr>
+    <tr>
+        <td>
+            <button onclick="nhap('1')">1</button>
+        </td>
+        <td>
+            <button onclick="nhap('2')">2</button>
+        </td>
+        <td>
+            <button onclick="nhap('3')">3</button>
+        </td>
+        <td>
+            <button onclick="nhap('+')">+</button>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <button onclick="nhap('4')">4</button>
+        </td>
+        <td>
+            <button onclick="nhap('5')">5</button>
+        </td>
+        <td>
+            <button onclick="nhap('6')">6</button>
+        </td>
+        <td>
+            <button onclick="nhap('-')">-</button>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <button onclick="nhap('7')">7</button>
+        </td>
+        <td>
+            <button onclick="nhap('8')">8</button>
+        </td>
+        <td>
+            <button onclick="nhap('9')">9</button>
+        </td>
+        <td>
+            <button onclick="nhap('*')">*</button>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <button onclick="nhap('C')">C</button>
+        </td>
+        <td>
+            <button onclick="nhap('0')">0</button>
+        </td>
+        <td>
+            <button onclick="tinhToan()">=</button>
+        </td>
+        <td>
+            <button onclick="nhap('/')">/</button>
+        </td>
+    </tr>
+</table>
+<script>
+    function nhap(temp) {
+        document.getElementById("ketQua").value += temp
+        if (temp == "C") {
+            document.getElementById("ketQua").value = "";
+        }
+        // alert(temp)
+    }
+    function tinhToan() {
+        document.getElementById("ketQua").value = (eval(document.getElementById("ketQua").value));
+    }
+</script>
+</body>
+</html>

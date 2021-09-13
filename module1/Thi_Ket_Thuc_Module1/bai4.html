@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    class HocSinh{
+        constructor(stt, hoTen, ngaySinh, DTB) {
+            this.stt = stt;
+            this.hoTen = hoTen;
+            this.ngaySinh = ngaySinh;
+            this.DTB = DTB;
+        }
+        thong_tin(){
+            document.write("THÔNG TIN HỌC SINH:<br>")
+            document.write("STT: "+ this.stt);
+            document.write("<br>Họ và Tên: "+ this.hoTen);
+            document.write("<br>Ngày Sinh: "+this.ngaySinh);
+            document.write("<br>Điểm Trung Bình: "+this.DTB);
+        }
+        kiem_tra_hoc_luc(){
+            if (this.DTB>8){
+                document.write("<br> "+this.hoTen + " Là học sinh GIỎI");
+            }else if (this.DTB>=6.5){
+                document.write("<br> "+this.hoTen + " Là học sinh KHÁ");
+            }else if (this.DTB>=5){
+                document.write("<br> "+this.hoTen + " Là học sinh TRUNG BÌNH");
+            }else if (this.DTB>=3.5){
+                document.write("<br> "+this.hoTen + " Là học sinh KHÁ");
+            }else {
+                document.write("<br> "+this.hoTen + " Là học sinh KÉM");
+            }
+        }
+    }
+    var thong_tin = new HocSinh(1,'Trần Công Quang','05/01/1999',3.2)
+    thong_tin.thong_tin();
+    thong_tin.kiem_tra_hoc_luc()
+</script>
+
+</body>
+</html>

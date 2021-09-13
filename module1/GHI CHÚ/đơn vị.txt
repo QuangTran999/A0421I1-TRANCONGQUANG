@@ -1,0 +1,6 @@
+Biến: khái báo rồi gán dữ liệu vẫn đc
+Hằng: khai báo phải gán dữ liệu
+++i: tưng rồi mới cộng
+i++: công rồi mới tăng
+let: biến cục bộ
+var: biến toàn cục

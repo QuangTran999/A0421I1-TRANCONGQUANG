@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var input = prompt("");
+    var list = '';
+    // input.split();
+    // input.toLowerCase();
+    // list[0]=list[0].toUpperCase();
+    for (let i=0;i<input.length;i++){
+        if (input[i]==' ' && input[i+1]==' '){
+            list = list + '';
+        }
+        else if (i==0 || input[i-1]==' '){
+            list = list + input[i].toUpperCase();
+        }
+        else {
+            list = list + input[i].toLowerCase();
+        }
+    }
+    alert(list);
+</script>
+
+</body>
+</html>

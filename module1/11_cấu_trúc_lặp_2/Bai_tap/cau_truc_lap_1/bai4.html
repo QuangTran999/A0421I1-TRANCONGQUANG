@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var n_1=1;
+    var n_2=1;
+    var fn = 0;
+    for (var i=0; i<222 ; i++){
+        fn = n_1 + n_2;
+        n_2 = n_1;
+        n_1 = fn;
+        if (fn%5==0){
+            document.write(fn + "Số fibonaci đầu tiên chia hết cho 5");
+            break;
+        }
+    }
+
+</script>
+
+</body>
+</html>

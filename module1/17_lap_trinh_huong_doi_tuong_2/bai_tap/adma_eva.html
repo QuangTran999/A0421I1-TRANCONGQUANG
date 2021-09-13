@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function Apple(weight) {
+        this.weight = weight;
+        this.decrease = function () {
+        };
+        this.isEmpty = function () {
+        };
+        this.getWeight = function () {
+            return this.weight;
+        };
+    }
+    function Human(name, gender, weight) {
+        this.name = name;
+        this.gender = gender;
+        this.weight = weight;
+
+        this.getName = function () {
+            return this.name;
+        };
+        this.getGender = function () {
+            if (this.gender==true){
+                alert("Giới tính Nam");
+            }else {
+                alert("Giới tính nữ");
+            }
+        };
+        this.getWeight = function () {
+            return this.weight;
+        };
+        this.say = function () {
+            prompt("");
+        };
+
+        this.eatApple = function (apple) {
+            if (apple.weight>0){
+                this.weight = this.weight +1;
+                apple.weight -= 1;
+            }else {
+                alert("Hết táo");
+            }
+        };
+        this.checkApple = function (apple) {
+            alert("Khối lượng của quả táo: "+apple.getWeight())
+        }
+    }
+</script>
+
+</body>
+</html>

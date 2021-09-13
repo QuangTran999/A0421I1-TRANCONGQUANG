@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var n_1 = 1;
+    var n_2 = 1;
+    var fn = 0;
+    var n = prompt("Nhập n số fibonaci: ");
+    for (var i=0; i<n ; i++){
+        fn = n_1 + n_2;
+        n_2 = n_1;
+        n_1 = fn;
+        document.write(fn, "<br>");
+    }
+</script>
+
+</body>
+</html>

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <form>
+        <h1>Market Research Survey</h1>
+        <p>Please take a few moments to complete this satisfaction survey.</p>
+
+        <p><b>What is your age range?</b></p>
+        <select name="city">
+            <option value="18-24">18-24</option>
+            <option value="25-35">25-35</option>
+            <option value="36-50">36-50</option>
+            <option value="50+">50+</option>
+        </select>
+
+        <p><b>Gender Identity</b></p>
+        <label><input type="radio" name="hobby" value="male">Male</label><br>
+        <label><input type="radio" name="hobby" value="Female">Female</label><br>
+        <label><input type="radio" name="hobby" value="Nonbinary">Nonbinary</label><br>
+        <label><input type="radio" name="hobby" value="other">other</label>
+
+        <p><b>Which of the following products have your purchased in the last 2 months. Please check all that apply.</b></p>
+        <label><input type="checkbox" name="hobby" value="Product 1">Product 1</label><br>
+        <label><input type="checkbox" name="hobby" value="Product 2">Product 2</label><br>
+        <label><input type="checkbox" name="hobby" value="Product 3">Product 3</label>
+
+        <b><p>How often would you use our new product?</p></b>
+        <label><input type="radio" name="hobby" value="Daily">Daily</label><br>
+        <label><input type="radio" name="hobby" value="Weekly">Weekly</label><br>
+        <label><input type="radio" name="hobby" value="Monthly">Monthly</label>
+
+        <p><b>What would you pay for the new product?</b></p>
+        <b>$</b><input type="text" name="dollars" style="width: 70px"> . <input type="text" name="Cents" style="width: 20px"><br>
+
+
+        <p><b>What features would you like to see in the new product.</b></p>
+        <input type="text" name="product" style="width: 500px; height: 100px">
+
+        <p><b>Plese rate your level ò agreement with the following statements.</b></p>
+        <table border="1" >
+            <tr>
+                <th> </th>
+                <th>Strongly Disagree</th>
+                <th>Disagree</th>
+                <th>Agree</th>
+                <th>Strongly agree</th>
+            </tr>
+
+            <tr>
+                <td>Our products are pricesd fairly</td>
+                <td><label><input type="radio" name="hobby" value="1">1</label></td>
+                <td><label><input type="radio" name="hobby" value="2">2</label></td>
+                <td><label><input type="radio" name="hobby" value="3">3</label></td>
+                <td><label><input type="radio" name="hobby" value="4">4</label></td>
+            </tr>
+            <tr>
+                <td>Our products are high quality</td>
+                <td><label><input type="radio" name="hobby" value="1">1</label></td>
+                <td><label><input type="radio" name="hobby" value="2">2</label></td>
+                <td><label><input type="radio" name="hobby" value="3">3</label></td>
+                <td><label><input type="radio" name="hobby" value="4">4</label></td>
+            </tr>
+            <tr>
+                <td>You world recomment our product to a frient or cowoker</td>
+                <td><label><input type="radio" name="hobby" value="1">1</label></td>
+                <td><label><input type="radio" name="hobby" value="2">2</label></td>
+                <td><label><input type="radio" name="hobby" value="3">3</label></td>
+                <td><label><input type="radio" name="hobby" value="4">4</label></td>
+            </tr>
+        </table>
+        <br>
+        <input type="submit" value="Submit" width="20px">
+
+    </form>
+</body>
+</html>

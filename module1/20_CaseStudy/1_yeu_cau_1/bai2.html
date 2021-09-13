@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<SCRIPT>
+    var h = prompt();
+    document.write("*");
+    document.write("<br>");
+    for (let i=0; i<h-2 ; i++){
+        document.writeln("*");
+        for (let j=h;j>(h-i);j--){
+            document.write("&nbsp;&nbsp;");
+        }
+        document.write("*");
+        document.write("<br>");
+    }
+    for (let i=0;i<h;i++){
+        document.write("*");
+    }
+</SCRIPT>
+
+</body>
+</html>

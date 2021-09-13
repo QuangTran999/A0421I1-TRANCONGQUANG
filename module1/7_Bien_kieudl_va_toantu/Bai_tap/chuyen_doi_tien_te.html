@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        table{
+            weight: 40%;
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <table>
+            <tr>
+                <th>Amount</th>
+                <th>From currensy</th>
+                <th>To currensy</th>
+            </tr>
+            <tr>
+                <td><input type="text" name="tien" id="tien"></td>
+                <td><select name="city" id="cd">
+                    <option value="1">VietNam</option>
+                    <option value="2">USD</option>
+                </select></td>
+                <td><select name="city2" id="tien2">
+                    <option value="1">USD</option>
+                    <option value="2">vietnam</option>
+                </select></td>
+                <td><button type="button" name="cd" onclick="do_something()">convert</button></td>
+            </tr>
+            <tr>
+                <td><p id="pre"></p></td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
+<script>
+    function do_something() {
+        let a = document.getElementById("tien").value;
+        let b = document.getElementById("cd").value;
+        let c = document.getElementById("tien2").value;
+        if (b==1 && c==1){
+            document.getElementById("pre").innerText = 'Result: '+a/23000;
+        }
+        if (b==2 && c==2){
+            document.getElementById("pre").innerText = 'Result: '+a*23000;
+        }
+
+    }
+</script>

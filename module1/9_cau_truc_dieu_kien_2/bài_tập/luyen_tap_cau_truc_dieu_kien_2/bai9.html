@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+a,b,c > 0
+a + b > c
+b + c > a
+a + c > b
+    <script>
+        var a = prompt("Nhập cạnh a: ");
+        var b = prompt("Nhập cạnh b: ");
+        var c = prompt("Nhập cạnh c: ");
+        if (a>0 && b>0 && c>0 && a+b>c && b+c>a && a+c>b){
+            alert("a, b và c là cạnh của tam giác.");
+        }else {
+            alert("a, b và c không phải cạnh của tam giác");
+        }
+
+    </script>
+
+</body>
+</html>

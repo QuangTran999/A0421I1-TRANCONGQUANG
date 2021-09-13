@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    var a = 'The Quick Brown Fox';
+    soup = '';
+    for (i of a){
+        if (i.toLowerCase()){
+            soup = soup + i.toLowerCase();
+        }else {
+            soup = soup + i ;
+        }
+    }
+    document.write(soup);
+</script>
+
+</body>
+</html>
