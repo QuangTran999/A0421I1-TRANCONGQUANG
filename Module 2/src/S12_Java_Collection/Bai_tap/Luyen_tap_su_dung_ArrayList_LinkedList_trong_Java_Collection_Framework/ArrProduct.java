@@ -1,16 +1,16 @@
 package S12_Java_Collection.Bai_tap.Luyen_tap_su_dung_ArrayList_LinkedList_trong_Java_Collection_Framework;
 
-public class ArrProduct {
+public  class ArrProduct {
     public String id;
-    public String name_product;
+    public String nameProduct;
     public double price;
     public String date;
 
     ArrProduct(){
     }
-    ArrProduct(String id, String name_product, double price, String date){
+    ArrProduct(String id, String nameProduct, double price, String date){
         this.id = id;
-        this.name_product = name_product;
+        this.nameProduct = nameProduct;
         this.price = price;
         this.date = date;
     }
@@ -23,12 +23,12 @@ public class ArrProduct {
         this.id = id;
     }
 
-    public String getName_product() {
-        return name_product;
+    public String getNameProduct() {
+        return nameProduct;
     }
 
-    public void setName_product(String name_product) {
-        this.name_product = name_product;
+    public void setNameProduct(String nameProduct) {
+        this.nameProduct = nameProduct;
     }
 
     public double getPrice() {
@@ -45,5 +45,11 @@ public class ArrProduct {
 
     public void setDate(String date) {
         this.date = date;
+    }
+
+
+    @Override
+    public String toString() {
+        return "ID: "+getId() + " Name: " + getNameProduct() + " Price: "+getPrice()+" Date: "+getDate();
     }
 }
