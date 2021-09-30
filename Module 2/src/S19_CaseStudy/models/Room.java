@@ -21,4 +21,16 @@ public class Room extends Facility{
     public void setServiceFree(String serviceFree) {
         this.serviceFree = serviceFree;
     }
+
+    @Override
+    public String toString() {
+        return "Room{" +
+                "serviceName='" + serviceName + '\'' +
+                ", usableArea=" + usableArea +
+                ", rentalCosts=" + rentalCosts +
+                ", maxNumberOfPeople=" + maxNumberOfPeople +
+                ", rentalType='" + rentalType + '\'' +
+                ", serviceFree='" + serviceFree + '\'' +
+                '}';
+    }
 }

@@ -1,9 +1,9 @@
 package S19_CaseStudy.models;
 
 public abstract class Person {
-    public String id;
+    public int id;
     public String name;
-    public String birthday;
+    public int age;
     public String sex;
     public String idCard;
     public String phoneNumber;
@@ -12,21 +12,21 @@ public abstract class Person {
     Person(){
     }
 
-    public Person(String id, String name, String birthday, String sex, String idCard, String phoneNumber, String email) {
+    public Person(int id, String name, int age, String sex, String idCard, String phoneNumber, String email) {
         this.id = id;
         this.name = name;
-        this.birthday = birthday;
+        this.age = age;
         this.sex = sex;
         this.idCard = idCard;
         this.phoneNumber = phoneNumber;
         this.email = email;
     }
 
-    public String getId() {
+    public int getId() {
         return id;
     }
 
-    public void setId(String id) {
+    public void setId(int id) {
         this.id = id;
     }
 
@@ -38,12 +38,12 @@ public abstract class Person {
         this.name = name;
     }
 
-    public String getBirthday() {
-        return birthday;
+    public int getAge() {
+        return age;
     }
 
-    public void setBirthday(String birthday) {
-        this.birthday = birthday;
+    public void setAge(int age) {
+        this.age = age;
     }
 
     public String getSex() {
@@ -76,5 +76,18 @@ public abstract class Person {
 
     public void setEmail(String email) {
         this.email = email;
+    }
+
+    @Override
+    public String toString() {
+        return "Person{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", age=" + age +
+                ", sex='" + sex + '\'' +
+                ", idCard='" + idCard + '\'' +
+                ", phoneNumber='" + phoneNumber + '\'' +
+                ", email='" + email + '\'' +
+                '}';
     }
 }

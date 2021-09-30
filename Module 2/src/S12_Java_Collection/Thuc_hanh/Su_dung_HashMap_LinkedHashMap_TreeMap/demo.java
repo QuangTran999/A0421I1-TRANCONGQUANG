@@ -6,15 +6,16 @@ import java.util.LinkedHashMap;
 
 public class demo {
     public static void main(String[] args) {
-        Map<String, Integer> hashMap = new HashMap<>();
-        hashMap.put("Smith", 30);
-        hashMap.put("Anderson", 31);
-        hashMap.put("Lewis", 29);
-        hashMap.put("Cook", 29);
+        Map<Integer, String> hashMap = new HashMap<>();
+        hashMap.put(30,"Smith");
+        hashMap.put(31,"Anderson");
+        hashMap.put(29,"Lewis");
+        hashMap.put(32,"Cook");
+        hashMap.put(32,"Cooks");
         System.out.println("Display entries in HashMap");
         System.out.println(hashMap + "\n");
 
-        Map<String, Integer> treeMap = new TreeMap<>(hashMap);
+        Map<Integer, String> treeMap = new TreeMap<>(hashMap);
         System.out.println("Display entries in ascending order of key");
         System.out.println(treeMap);
 

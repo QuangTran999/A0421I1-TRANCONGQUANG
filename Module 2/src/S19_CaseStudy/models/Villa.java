@@ -2,22 +2,18 @@ package S19_CaseStudy.models;
 
 public class Villa extends Facility{
     private String roomStandard;
-    private double swimmingPoolArea;
+    private double poolArea;
     private int numberOfFloors;
 
     Villa(){
     }
 
-    public Villa(String roomStandard, double swimmingPoolArea, int numberOfFloors) {
-        this.roomStandard = roomStandard;
-        this.swimmingPoolArea = swimmingPoolArea;
-        this.numberOfFloors = numberOfFloors;
-    }
 
-    public Villa(String serviceName, double usableArea, int rentalCosts, int maxNumberOfPeople, String rentalType, String roomStandard, double swimmingPoolArea, int numberOfFloors) {
+    public Villa(String serviceName, double usableArea, int rentalCosts, int maxNumberOfPeople,
+                 String rentalType, String roomStandard, double swimmingPoolArea, int numberOfFloors) {
         super(serviceName, usableArea, rentalCosts, maxNumberOfPeople, rentalType);
         this.roomStandard = roomStandard;
-        this.swimmingPoolArea = swimmingPoolArea;
+        this.poolArea = swimmingPoolArea;
         this.numberOfFloors = numberOfFloors;
     }
 
@@ -29,12 +25,12 @@ public class Villa extends Facility{
         this.roomStandard = roomStandard;
     }
 
-    public double getSwimmingPoolArea() {
-        return swimmingPoolArea;
+    public double getPoolArea() {
+        return poolArea;
     }
 
-    public void setSwimmingPoolArea(double swimmingPoolArea) {
-        this.swimmingPoolArea = swimmingPoolArea;
+    public void setPoolArea(double poolArea) {
+        this.poolArea = poolArea;
     }
 
     public int getNumberOfFloors() {
@@ -43,5 +39,19 @@ public class Villa extends Facility{
 
     public void setNumberOfFloors(int numberOfFloors) {
         this.numberOfFloors = numberOfFloors;
+    }
+
+    @Override
+    public String toString() {
+        return "Villa{" +
+                "serviceName='" + serviceName + '\'' +
+                ", usableArea=" + usableArea +
+                ", rentalCosts=" + rentalCosts +
+                ", maxNumberOfPeople=" + maxNumberOfPeople +
+                ", rentalType='" + rentalType + '\'' +
+                ", roomStandard='" + roomStandard + '\'' +
+                ", swimmingPoolArea=" + poolArea +
+                ", numberOfFloors=" + numberOfFloors +
+                '}';
     }
 }

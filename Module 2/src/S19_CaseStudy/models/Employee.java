@@ -3,22 +3,24 @@ package S19_CaseStudy.models;
 public class Employee extends Person{
     private String level;
     private String location;
-    private long wage;
+    private int salary;
 
     Employee(){
     }
 
-    public Employee(String level, String location, long wage) {
+    public Employee(String level, String location, int salary) {
         this.level = level;
         this.location = location;
-        this.wage = wage;
+        this.salary = salary;
     }
 
-    public Employee(String id, String name, String birthday, String sex, String idCard, String phoneNumber, String email, String level, String location, long wage) {
-        super(id, name, birthday, sex, idCard, phoneNumber, email);
+    public Employee(int id, String name, int age,
+                    String sex, String idCard, String phoneNumber,
+                    String email, String level, String location, int salary) {
+        super(id, name, age, sex, idCard, phoneNumber, email);
         this.level = level;
         this.location = location;
-        this.wage = wage;
+        this.salary = salary;
     }
 
     public String getLevel() {
@@ -37,11 +39,27 @@ public class Employee extends Person{
         this.location = location;
     }
 
-    public long getWage() {
-        return wage;
+    public int getSalary() {
+        return salary;
     }
 
-    public void setWage(long wage) {
-        this.wage = wage;
+    public void setSalary(int salary) {
+        this.salary = salary;
+    }
+
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "level='" + level + '\'' +
+                ", location='" + location + '\'' +
+                ", salary=" + salary +
+                ", id=" + id +
+                ", name='" + name + '\'' +
+                ", age=" + age +
+                ", sex='" + sex + '\'' +
+                ", idCard='" + idCard + '\'' +
+                ", phoneNumber='" + phoneNumber + '\'' +
+                ", email='" + email + '\'' +
+                '}';
     }
 }
