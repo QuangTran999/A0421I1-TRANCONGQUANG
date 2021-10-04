@@ -1,5 +1,4 @@
 package EXAM.services.impl;
-
 import EXAM.File.ReadAndWriteFile;
 import EXAM.models.SPNhapKhau;
 import EXAM.models.SPXuatKhau;
@@ -11,11 +10,11 @@ import java.util.List;
 import java.util.Scanner;
 
 public class SanPhamImpl implements sanpham {
-    private static List<SanPham> dsSanPham = new ArrayList<>();
+    private static List<SanPham> dsSanPham ;
     private static Scanner scanner = new Scanner(System.in);
-    ReadAndWriteFile readAndWriteFile = new ReadAndWriteFile();
-
-
+    static {
+       dsSanPham = new ArrayList<>();
+    }
     @Override
     public void themMoi() {
         int id = -1;
@@ -25,11 +24,10 @@ public class SanPhamImpl implements sanpham {
             id = dsSanPham.get(dsSanPham.size()-1).getId() + 1;
         }
         System.out.println("1. Thêm mới Sản phẩm nhập khẩu.");
-        System.out.println("1. Thêm mới Sản phẩm xuất khẩu.");
+        System.out.println("2. Thêm mới Sản phẩm xuất khẩu.");
         int them = Integer.parseInt(scanner.nextLine());
 
         if (them==1){
-
             System.out.printf("Nhập mã sản phẩm: ");
             String maSP = scanner.nextLine();
             System.out.printf("Nhập tên: ");
@@ -51,7 +49,7 @@ public class SanPhamImpl implements sanpham {
                     giaNhapKhau, tinhNhapKhau,thueNhapKhau);
             dsSanPham.add(spNhapKhau);
 
-        }else {
+        }else if (them==2){
             System.out.printf("Nhập mã sản phẩm: ");
             String maSP = scanner.nextLine();
             System.out.printf("Nhập tên: ");
@@ -72,13 +70,12 @@ public class SanPhamImpl implements sanpham {
             dsSanPham.add(spXuatKhau);
 
         }
-
-
-
+        ReadAndWriteFile.write(dsSanPham,"sample\\A0421I1\\sample2.csv");
     }
 
     @Override
     public void xemDanhSach() {
+        dsSanPham = (List<SanPham>) ReadAndWriteFile.read("sample\\A0421I1\\sample2.csv");
         for (SanPham sanPham: dsSanPham) {
             System.out.println(sanPham.toString());
         }

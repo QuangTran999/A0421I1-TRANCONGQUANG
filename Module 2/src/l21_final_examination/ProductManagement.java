@@ -9,7 +9,7 @@ public class ProductManagement {
     private static List<Product> productList;
 
     static {
-        productList = new ArrayList<>();
+        productList = new ArrayList<>();//?????
     }
     
     public static void menu(){

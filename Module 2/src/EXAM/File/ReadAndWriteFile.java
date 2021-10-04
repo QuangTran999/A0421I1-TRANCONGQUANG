@@ -1,8 +1,12 @@
 package EXAM.File;
+import EXAM.models.SanPham;
+
 import java.io.*;
 import java.util.Collection;
+import java.util.List;
 
 public class ReadAndWriteFile {
+
     public static void write(Collection collection, String path){
         File file = new File(path);
 
@@ -55,4 +59,5 @@ public class ReadAndWriteFile {
         }
         return null;
     }
+
 }
