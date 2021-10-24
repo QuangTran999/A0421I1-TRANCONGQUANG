@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a3276ed-22b0-479b-b32d-1b0b4c3cf918" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../.idea/modules/A0421I1-TRANCONGQUANG.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/bao_cao/CodeGym-A0421I1_Trần Công Quang_sprint1_module3_week3.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/A04NhungBootrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/DemoBT1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/bootstrap-4.6.0-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/jquery/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/Lib/myCss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/demoicon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/demo/boostrap/layoutA04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S7_Thie_ke_bo_cuc_trang_web/Bai_tap/Tao_layout_voi_RWD/RWD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S7_Thie_ke_bo_cuc_trang_web/Bai_tap/Tao_layout_voi_RWD/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S7_Thie_ke_bo_cuc_trang_web/Bai_tap/Tao_layout_voi_cac_the_html_css/css.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S7_Thie_ke_bo_cuc_trang_web/Bai_tap/Tao_layout_voi_cac_the_html_css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S7_Thie_ke_bo_cuc_trang_web/Thuc_hanh/Su_dung_box_model/SuDungBoxmodel.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S7_Thie_ke_bo_cuc_trang_web/Thuc_hanh/Tao_menu_doc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S7_Thie_ke_bo_cuc_trang_web/Thuc_hanh/Tao_menu_doc/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S7_Thie_ke_bo_cuc_trang_web/Thuc_hanh/Tao_menu_ngang/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S7_Thie_ke_bo_cuc_trang_web/Thuc_hanh/Tao_menu_ngang/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Tao_gallery_don_gian_su_dung_Bootstrap/Gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Tao_gallery_don_gian_su_dung_Bootstrap/img_fjords.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Tao_gallery_don_gian_su_dung_Bootstrap/img_forest.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Tao_gallery_don_gian_su_dung_Bootstrap/img_lights.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Tao_gallery_don_gian_su_dung_Bootstrap/img_mountains.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/05d32363-d534-4d93-9b65-cde674775e71(1).js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/05d32363-d534-4d93-9b65-cde674775e71.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/0m120v.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/1x1clear.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/22b85d534a959cd49f92371c64b91abe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/4009169c82d815aa0d61bfe0faa57e8b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/90-36431b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/9SLYA-PCQKP-CU56T-D2UD9-N4WJG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/Bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/ChangeMonitor-latest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/Clear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RE1AM01" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RE1AONz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RE1DSqQ" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RE1DXIb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RE1DpU3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RE1hnXR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RE1hta6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RE1hta7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RE1hta7(1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RE1uyOA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RE1uyOA(1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RW5CFu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RW7DtR" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RW7DtR(1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RW7Li9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RW7Li9(1)" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RWaRQ0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/WR-latest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/a3698060313.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/a8e5657ad4817c99ff844c7af7668a91.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/aam.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/ac-a1857c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/broker-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/broker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/cartcount.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/d6-7475ca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/dc-3db089" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/dest5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/fbds.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/jquery-2.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/ld.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/meBoot.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/meCore.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/meversion" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/microsoft-gray.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/saved_resource.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/serverComponent.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/sp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/store_enus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/t.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Thuc_hanh/Su_dung_Bootstrap_xay_dung_form_login/bootstrap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Thuc_hanh/Su_dung_Bootstrap_xay_dung_form_login/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S8_Bootstrap/Thuc_hanh/Su_dung_Bootstrap_xay_dung_form_login/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S9_Tong_quan_ung_dung_web/Thuc_hanh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S9_Tong_quan_ung_dung_web/Thuc_hanh/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S9_Tong_quan_ung_dung_web/Thuc_hanh/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S9_Tong_quan_ung_dung_web/Thuc_hanh/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S9_Tong_quan_ung_dung_web/Thuc_hanh/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S9_Tong_quan_ung_dung_web/Thuc_hanh/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S9_Tong_quan_ung_dung_web/Thuc_hanh/.idea/modules/Thuc_hanh.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S9_Tong_quan_ung_dung_web/Thuc_hanh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S9_Tong_quan_ung_dung_web/Thuc_hanh/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S9_Tong_quan_ung_dung_web/Thuc_hanh/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S9_Tong_quan_ung_dung_web/Thuc_hanh/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/S9_Tong_quan_ung_dung_web/Thuc_hanh/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3/src/bootstrap-4.6.0-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.idea/modules/time_server.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.idea/modules/time_server.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.idea/modules/time_server.test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/src/main/java/ServerTimeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Module3_Servlet/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/modules/server_time.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/build/libs/server_time-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/src/main/java/ServerTimeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../A0421I1-TRANCONGQUANG - Shortcut.lnk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1zucWQ1E7Nas2134JZpbDI0Vj0n" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 8.5.34" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.34" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="Gradle : org.example : simple_login-1.0-SNAPSHOT.war">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="d7f8c2ea-9e8f-420a-aaca-c74d947906d1" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="64806" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="Gradle : org.example : simple_login-1.0-SNAPSHOT.war" />
+        </option>
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a3276ed-22b0-479b-b32d-1b0b4c3cf918" name="Default Changelist" comment="" />
+      <created>1635001448933</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1635001448933</updated>
+      <workItem from="1635001451207" duration="2665000" />
+      <workItem from="1635006250140" duration="109000" />
+      <workItem from="1635006913381" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
