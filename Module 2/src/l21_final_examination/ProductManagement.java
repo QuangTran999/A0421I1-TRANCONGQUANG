@@ -9,7 +9,7 @@ public class ProductManagement {
     private static List<Product> productList;
 
     static {
-        productList = new ArrayList<>();//?????
+        productList = new ArrayList<>();
     }
     
     public static void menu(){
@@ -64,8 +64,8 @@ public class ProductManagement {
     }
 
     private static void display() {
-        productList = (List<Product>) ReadAndWriteFile.read("D:\\QUANG\\CodeGym\\ProjectCodeGym\\" +
-                "A0421I1-TRANCONGQUANG\\Module 2\\src\\l21_final_examination\\products.csv");
+        productList = (List<Product>) ReadAndWriteFile.read("D:\\QUANG\\CodeGym\\" +
+                "ProjectCodeGym\\A0421I1-TRANCONGQUANG\\Module 2\\src\\l21_final_examination\\products.csv");
         for (Product product : productList){
             System.out.println(product.toString());
         }
@@ -75,7 +75,7 @@ public class ProductManagement {
         try{
             System.out.println("Enter id of product");
             int id = Integer.parseInt(scanner.nextLine());
-            Product product = findById(id);
+            l21_final_examination.Product product = findById(id);
 
             System.out.println("Are you sure to delete the product " + product.getNameProduct()
                     + "\n Yes"
@@ -84,8 +84,7 @@ public class ProductManagement {
             if (scanner.nextLine().equals("Yes")){
                 productList.remove(product);
                 System.out.println("Remove Successfully!!!");
-                ReadAndWriteFile.write(productList, "D:\\QUANG\\CodeGym\\ProjectCodeGym\\" +
-                        "A0421I1-TRANCONGQUANG\\Module 2\\src\\l21_final_examination\\products.csv");
+                ReadAndWriteFile.write(productList, "D:\\QUANG\\CodeGym\\ProjectCodeGym\\A0421I1-TRANCONGQUANG\\Module 2\\src\\l21_final_examination\\products.csv");
             }else {
                 menu();
             }
@@ -96,8 +95,7 @@ public class ProductManagement {
 
     private static Product findById(int id) throws ProductNotFoundException {
         Product product = null;
-        productList = (List<Product>) ReadAndWriteFile.read("D:\\QUANG\\CodeGym\\ProjectCodeGym\\" +
-                "A0421I1-TRANCONGQUANG\\Module 2\\src\\l21_final_examination\\products.csv");
+        productList = (List<Product>) ReadAndWriteFile.read("D:\\QUANG\\CodeGym\\ProjectCodeGym\\A0421I1-TRANCONGQUANG\\Module 2\\src\\l21_final_examination\\products.csv");
         for (int i = 0; i < productList.size(); i++) {
             if (productList.get(i).getId() == id){
                 product = productList.get(i);
@@ -152,8 +150,7 @@ public class ProductManagement {
             double importTax = Double.parseDouble(scanner.nextLine());
             productList.add(new ImportedProduct(id, code, name, price, quantity, producer, importedPrice,
                     province, importTax));
-            ReadAndWriteFile.write(productList, "D:\\QUANG\\CodeGym\\ProjectCodeGym\\" +
-                    "A0421I1-TRANCONGQUANG\\Module 2\\src\\l21_final_examination\\products.csv");
+            ReadAndWriteFile.write(productList, "D:\\QUANG\\CodeGym\\ProjectCodeGym\\A0421I1-TRANCONGQUANG\\Module 2\\src\\l21_final_examination\\products.csv");
         }
     }
 }

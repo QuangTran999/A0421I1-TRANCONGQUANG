@@ -11,6 +11,10 @@
     <title>$Title$</title>
   </head>
   <body>
-  $END$
+  <h2>Vietnamese Dictionary</h2>
+  <form action="dictionary.jsp" method="post">
+    <input type="text" name="search" placeholder="Enter your word: "/>
+    <input type = "submit" value = "Search"/>
+  </form>
   </body>
 </html>

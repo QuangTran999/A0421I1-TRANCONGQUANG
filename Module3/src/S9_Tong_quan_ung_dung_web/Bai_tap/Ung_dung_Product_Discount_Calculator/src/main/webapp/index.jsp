@@ -8,9 +8,17 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>Product Discount Calculator</title>
   </head>
   <body>
-  $END$
+    <form action="/convert" method="post">
+      <div>
+        <h2>Product Discount Calculator</h2>
+        <input type="text" name="description" placeholder="Product Description"><br/><br/>
+        <input type="text" name="price" placeholder="List Price"><br/><br/>
+        <input type="text" name="discount" placeholder="Discount Percent"><br/><br/>
+        <input type="submit" value="Convert"><br/>
+      </div>
+    </form>
   </body>
 </html>

@@ -32,3 +32,50 @@
         crossorigin="anonymous"></script>
 </body>
 </html>
+<script>
+    function distance(a, b)
+    {
+        let dist = 0;
+        for (let i = 0; i < a.length; i++)
+        {
+            dist += (a[i] - b[i]) * (a[i] - b[i]);
+        }
+        return Math.sqrt(dist);
+    }
+    function find_nearest_neighbor(n_neighbor = 5, point, data_input)
+    {
+        let arr = [];
+        for (let i = 0; i < data_input.length; i++)
+        {
+            let cdist = distance(point, data_input[i]);
+            arr.push([cdist, i]);
+        }
+        arr.sort()
+        let result = []
+        for (let i = 0; i < n_neighbor; i++)
+        {
+            result.push(arr[i][1]);
+        }
+        return result;
+    }
+    function get_value(neighbors, data_output)
+    {
+        let total = 0;
+        for (let i = 0; i < neighbors.length; i++)
+        {
+            total += data_output[neighbors[i]];
+        }
+        return total / neighbors.length;
+    }
+
+    function knn(n_neighbor=5, point, data)
+    {
+        let neighbors = find_nearest_neighbor(n_neighbor, point, data[0]);
+        let predict_value = get_value(neighbors, data[1]);
+        return predict_value;
+    }
+
+    let dataset = [[[0, 0], [1, 1], [2, 2]], [2.5, 3.5, 2.5]];
+    console.log(find_nearest_neighbor(2, [2, 3], dataset[0]));
+    console.log(knn(2, [2, 3], dataset));
+</script>

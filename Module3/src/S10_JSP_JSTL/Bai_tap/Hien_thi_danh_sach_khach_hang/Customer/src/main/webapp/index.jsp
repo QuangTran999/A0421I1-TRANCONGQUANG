@@ -12,24 +12,6 @@
     <title>$Title$</title>
   </head>
   <body>
-    <h2>Danh sách khách hàng</h2>
-    <table>
-      <tr>
-        <th>Tên</th>
-        <th>Ngày sinh</th>
-        <th>Địa chỉ</th>
-        <th>Hình ảnh</th>
-      </tr>
-      <c:forEach items="${list}" var="customer">
-        <tr>
-          <td>${customer.name}</td>
-          <td>${customer.date}</td>
-          <td>${customer.address}</td>
-          <td>${customer.img}</td>
-        </tr>
-      </c:forEach>
-
-
-    </table>
+    <c:redirect url="/list"></c:redirect>
   </body>
 </html>

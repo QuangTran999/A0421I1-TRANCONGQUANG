@@ -1,8 +1,7 @@
 package l21_final_examination;
 
-import java.io.Serializable;
 
-public class ExportedProduct extends Product {
+public class ExportedProduct extends l21_final_examination.Product {
 
     private double exportPrice;
     private String importProductCountry;

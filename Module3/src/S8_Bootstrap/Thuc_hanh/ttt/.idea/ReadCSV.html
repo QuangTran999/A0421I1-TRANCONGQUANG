@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div style="border: black 0.5px solid; width: 200px">
+  <div style="text-align:center">
+    </br>
+      <input type="text" id="dientich" placeholder="Nhập diện tích"></br></br>
+      <input type="text" id="duong" placeholder="Nhập Đường trước nhà"></br></br>
+      <input type="text" id="sotang" placeholder="Nhập Số tầng"></br></br>
+      <input type="text" id="sophong" placeholder="Nhập số phòng"></br></br>
+      <input type="text" id="giadudoan" placeholder="Giá mô hình dự đoán"></br></br>
+      <input type="button" value="Dự đoán" onclick="DuDoan();"></br></br>
+
+  </div>
+
+</div>
+
+</br></br>
+
+<input type="file" id="fileUpload" />
+<input type="button" id="upload" value="Upload" onclick="UploadProcess()" />
+<br/>
+
+<div id="ExcelTable"></div>
+
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.13.5/xlsx.full.min.js"></script>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.13.5/jszip.js"></script>
+<script type="text/javascript">
+  function UploadProcess() {
+    //Reference the FileUpload element.
+    var fileUpload = document.getElementById("fileUpload");
+
+    //Validate whether File is valid Excel file.
+    var regex = /^([a-zA-Z0-9\s_\\.\-:])+(.xls|.xlsx|.csv)$/;
+    if (regex.test(fileUpload.value.toLowerCase())) {
+      if (typeof (FileReader) != "undefined") {
+        var reader = new FileReader();
+
+        //For Browsers other than IE.
+        if (reader.readAsBinaryString) {
+          reader.onload = function (e) {
+            GetTableFromExcel(e.target.result);
+          };
+          reader.readAsBinaryString(fileUpload.files[0]);
+        } else {
+          //For IE Browser.
+          reader.onload = function (e) {
+            var data = "";
+            var bytes = new Uint8Array(e.target.result);
+            for (var i = 0; i < bytes.byteLength; i++) {
+              data += String.fromCharCode(bytes[i]);
+            }
+            GetTableFromExcel(data);
+          };
+          reader.readAsArrayBuffer(fileUpload.files[0]);
+        }
+      } else {
+        alert("This browser does not support HTML5.");
+      }
+    } else {
+      alert("Please upload a valid Excel file.");
+    }
+  };
+  function GetTableFromExcel(data) {
+    //Read the Excel File data in binary
+    var workbook = XLSX.read(data, {
+      type: 'binary'
+    });
+
+    //get the name of First Sheet.
+    var Sheet = workbook.SheetNames[0];
+
+    //Read all rows from First Sheet into an JSON array.
+    var excelRows = XLSX.utils.sheet_to_row_object_array(workbook.Sheets[Sheet]);
+
+    //Create a HTML Table element.
+    var myTable  = document.createElement("table");
+    myTable.border = "1";
+
+    //Add the header row.
+    var row = myTable.insertRow(-1);
+
+    //Add the header cells.
+    var headerCell = document.createElement("TH");
+    headerCell.innerHTML = "DienTich";
+    row.appendChild(headerCell);
+
+    headerCell = document.createElement("TH");
+    headerCell.innerHTML = "Duong";
+    row.appendChild(headerCell);
+
+    headerCell = document.createElement("TH");
+    headerCell.innerHTML = "SoTang";
+    row.appendChild(headerCell);
+
+    headerCell = document.createElement("TH");
+    headerCell.innerHTML = "SoPhong";
+    row.appendChild(headerCell);
+
+    headerCell = document.createElement("TH");
+    headerCell.innerHTML = "Gia";
+    row.appendChild(headerCell);
+
+
+    //Add the data rows from Excel file.
+    for (var i = 0; i < excelRows.length; i++) {
+      //Add the data row.
+      var row = myTable.insertRow(-1);
+
+      //Add the data cells.
+      var cell = row.insertCell(-1);
+      cell.innerHTML = excelRows[i].DienTich;
+
+      cell = row.insertCell(-1);
+      cell.innerHTML = excelRows[i].Duong;
+
+      cell = row.insertCell(-1);
+      cell.innerHTML = excelRows[i].SoTang;
+
+      cell = row.insertCell(-1);
+      cell.innerHTML = excelRows[i].SoTang;
+
+      cell = row.insertCell(-1);
+      cell.innerHTML = excelRows[i].Gia;
+    }
+
+
+    var ExcelTable = document.getElementById("ExcelTable");
+    ExcelTable.innerHTML = "";
+    ExcelTable.appendChild(myTable);
+  };
+  function DuDoan(){
+    var dienTich = parseInt(document.getElementById("dientich").value);
+    var duong = parseInt(document.getElementById("duong").value);
+    var soTang = parseInt(document.getElementById("sotang").value);
+    var soPhong = parseInt(document.getElementById("sophong").value);
+    var duDoan = (dienTich + duong + soTang + soPhong)/10;
+    document.getElementById("giadudoan").value = duDoan;
+  }
+</script>
+
+</body>
+</html>
