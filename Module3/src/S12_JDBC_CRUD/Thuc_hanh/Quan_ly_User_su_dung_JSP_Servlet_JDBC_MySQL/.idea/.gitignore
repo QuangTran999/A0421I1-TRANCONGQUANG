@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../../:\QUANG\CodeGym\ProjectCodeGym\A0421I1-TRANCONGQUANG\Module3\src\S12_JDBC_CRUD\Thuc_hanh\Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

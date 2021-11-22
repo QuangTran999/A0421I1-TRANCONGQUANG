@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5692eb65-b91a-4b5f-8da4-b8abb899b8c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../Tài liệu/~$-DN Case Study for JSP&amp;Servlet.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Bai_tap/Hien_thi_danh_sach_khach_hang/Customer/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Bai_tap/Hien_thi_danh_sach_khach_hang/Customer/.gradle/checksums/md5-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Bai_tap/Hien_thi_danh_sach_khach_hang/Customer/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Bai_tap/Hien_thi_danh_sach_khach_hang/Customer/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Bai_tap/Hien_thi_danh_sach_khach_hang/Customer/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Bai_tap/Hien_thi_danh_sach_khach_hang/Customer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Bai_tap/Hien_thi_danh_sach_khach_hang/Customer/src/main/webapp/bootstrap-4.6.0-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Bai_tap/Hien_thi_danh_sach_khach_hang/Customer/src/main/webapp/bootstrap-4.6.0-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Bai_tap/Hien_thi_danh_sach_khach_hang/Customer/src/main/webapp/bootstrap-4.6.0-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Bai_tap/Hien_thi_danh_sach_khach_hang/Customer/src/main/webapp/bootstrap-4.6.0-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Bai_tap/Hien_thi_danh_sach_khach_hang/Customer/src/main/webapp/bootstrap-4.6.0-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Bai_tap/Hien_thi_danh_sach_khach_hang/Customer/src/main/webapp/img/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Bai_tap/Hien_thi_danh_sach_khach_hang/Customer/src/main/webapp/img/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Bai_tap/Ung_dung_Calculator/Calculator/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Bai_tap/Ung_dung_Calculator/Calculator/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Bai_tap/Ung_dung_Calculator/Calculator/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Thuc_hanh/Ung_dung_Tu_dien_don_gian_JSP/simple_dictionary_jsp/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Thuc_hanh/Ung_dung_Tu_dien_don_gian_JSP/simple_dictionary_jsp/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Thuc_hanh/Ung_dung_Tu_dien_don_gian_JSP/simple_dictionary_jsp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Thuc_hanh/Ung_dung_Tu_dien_don_gian_JSP/simple_dictionary_jsp/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Thuc_hanh/Ung_dung_chuyen_doi_tien_te_JSP/currency_converter_jsp/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Thuc_hanh/Ung_dung_chuyen_doi_tien_te_JSP/currency_converter_jsp/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Thuc_hanh/Ung_dung_chuyen_doi_tien_te_JSP/currency_converter_jsp/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Thuc_hanh/Ung_dung_chuyen_doi_tien_te_JSP/currency_converter_jsp/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Thuc_hanh/Ung_dung_chuyen_doi_tien_te_JSP/currency_converter_jsp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Thuc_hanh/Ung_dung_chuyen_doi_tien_te_JSP/currency_converter_jsp/build/libs/currency_converter_jsp-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Thuc_hanh/Ung_dung_chuyen_doi_tien_te_JSP/currency_converter_jsp/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S10_JSP_JSTL/Thuc_hanh/Ung_dung_chuyen_doi_tien_te_JSP/currency_converter_jsp/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S11_MVC_Model/Bai_tap/Tao_ung_dung_quan_ly_san_pham/Product-management/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S11_MVC_Model/Bai_tap/Tao_ung_dung_quan_ly_san_pham/Product-management/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S11_MVC_Model/Bai_tap/Tao_ung_dung_quan_ly_san_pham/Product-management/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S11_MVC_Model/Bai_tap/Tao_ung_dung_quan_ly_san_pham/Product-management/build/libs/Product-management-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S11_MVC_Model/Bai_tap/Tao_ung_dung_quan_ly_san_pham/Product-management/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/src/main/webapp/customer/error-404.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/src/main/webapp/user/find.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S12_JDBC_CRUD/Thuc_hanh/demo.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S7_Thie_ke_bo_cuc_trang_web/Bai_tap/Tao_layout_voi_RWD/RWD.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/1x1clear.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/Clear.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RE1AONz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/RW5CFu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/WR-latest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/aam.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/cartcount.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/fbds.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/jquery-2.1.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/store_enus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S8_Bootstrap/Bai_tap/Xay_dung_Landing_Page/window/tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S8_Bootstrap/Thuc_hanh/Su_dung_Bootstrap_xay_dung_form_login/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S8_Bootstrap/Thuc_hanh/ttt/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S8_Bootstrap/Thuc_hanh/ttt/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Bai_tap/Ung_dung_Product_Discount_Calculator/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Bai_tap/Ung_dung_Product_Discount_Calculator/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Bai_tap/Ung_dung_Product_Discount_Calculator/.idea/modules/Ung_dung_Product_Discount_Calculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Bai_tap/Ung_dung_Product_Discount_Calculator/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Bai_tap/Ung_dung_Product_Discount_Calculator/build/libs/Ung_dung_Product_Discount_Calculator-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chaoo/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_tee/index/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_tee/index/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_tee/index/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_tee/index/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_tee/index/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_tee/index/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_tee/index/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_tee/index/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_tu_dien_don_gian/simple_dictionary/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_tu_dien_don_gian/simple_dictionary/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_tu_dien_don_gian/simple_dictionary/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_tu_dien_don_gian/simple_dictionary/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_tu_dien_don_gian/simple_dictionary/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_tu_dien_don_gian/simple_dictionary/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_tu_dien_don_gian/simple_dictionary/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_tu_dien_don_gian/simple_dictionary/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_tu_dien_don_gian/simple_dictionary/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/bootstrap-4.6.0-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/bootstrap-4.6.0-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/bootstrap-4.6.0-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/bootstrap-4.6.0-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/bootstrap-4.6.0-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../out/production/Module3/bootstrap-4.6.0-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../S14_Packaging_Dependency_Mângement/Bai_tap/PTB2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../S14_Packaging_Dependency_Mângement/Bai_tap/PTB2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../S14_Packaging_Dependency_Mângement/Thuc_hanh/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../S14_Packaging_Dependency_Mângement/Thuc_hanh/demo_packaging.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/EXAM/File/ReadAndWriteFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/EXAM/controllers/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/EXAM/models/SPNhapKhau.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/EXAM/models/SPXuatKhau.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/EXAM/models/SanPham.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/EXAM/services/impl/SanPhamImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/EXAM/services/sanpham.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/S10_Danh_Sach/Thuc_hanh/Trien_khai_lop_list_don_gian/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/S10_Danh_Sach/Thuc_hanh/Trien_khai_lop_list_don_gian/MyList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/S10_Danh_Sach/Thuc_hanh/Trien_khai_lop_list_don_gian/MyListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/S10_Danh_Sach/Thuc_hanh/Trien_khai_lop_list_don_gian/MyListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/S12_Java_Collection/Bai_tap/Luyen_tap_su_dung_ArrayList_LinkedList_trong_Java_Collection_Framework/MyListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/S12_Java_Collection/Bai_tap/Luyen_tap_su_dung_ArrayList_LinkedList_trong_Java_Collection_Framework/MyListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/S12_Java_Collection/Bai_tap/Luyen_tap_su_dung_ArrayList_LinkedList_trong_Java_Collection_Framework/ProductManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/S12_Java_Collection/Bai_tap/Luyen_tap_su_dung_ArrayList_LinkedList_trong_Java_Collection_Framework/ProductManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/S12_Java_Collection/Bai_tap/RTTT/ProductManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/S12_Java_Collection/Bai_tap/RTTT/ProductManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/l21_final_examination/ExportedProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/l21_final_examination/ExportedProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/l21_final_examination/ProductManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/l21_final_examination/ProductManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/l21_final_examination/products.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/l21_final_examination/products.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/out/production/Module 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/out/production/Module 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/out/production/Module 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/out/production/Module 2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/out/production/Module 2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/out/production/Module 2/Module 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/out/production/Module 2/sample/A0421I1/sample1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/out/production/Module 2/sample/A0421I1/sample2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/out/production/Module 2/sample/A0421I1/sample2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/out/production/Module 2/sample/A0421I1/sample3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/sample/A0421I1/sample2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/out/production/Module 2/sample/A0421I1/sample3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/src/S10_Danh_Sach/Thuc_hanh/Trien_khai_lop_list_don_gian/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module 2/src/S10_Danh_Sach/Thuc_hanh/Trien_khai_lop_list_don_gian/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/src/S10_Danh_Sach/Thuc_hanh/Trien_khai_lop_list_don_gian/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module 2/src/S10_Danh_Sach/Thuc_hanh/Trien_khai_lop_list_don_gian/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/src/S12_Java_Collection/Bai_tap/Luyen_tap_su_dung_ArrayList_LinkedList_trong_Java_Collection_Framework/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module 2/src/S12_Java_Collection/Bai_tap/Luyen_tap_su_dung_ArrayList_LinkedList_trong_Java_Collection_Framework/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/src/S12_Java_Collection/Bai_tap/Luyen_tap_su_dung_ArrayList_LinkedList_trong_Java_Collection_Framework/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module 2/src/S12_Java_Collection/Bai_tap/Luyen_tap_su_dung_ArrayList_LinkedList_trong_Java_Collection_Framework/ProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/src/S12_Java_Collection/Bai_tap/RTTT/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module 2/src/S12_Java_Collection/Bai_tap/RTTT/ProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/src/l21_final_examination/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module 2/src/l21_final_examination/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module 2/src/l21_final_examination/products.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Module 2/src/l21_final_examination/products.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demo/A0421MVC/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demo/A0421MVC/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demo/A0421MVC/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demo/A0421MVC/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demo/A0421MVC/.idea/A0421MVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demo/A0421MVC/.idea/A0421MVC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../demo/demoJSTL/.idea/demoJSTL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../demo/demoJSTL/.idea/demoJSTL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Module3/CaseStudy_SQL/CaseStudy_SQL.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/Module3/CaseStudy_SQL/CaseStudy_SQL.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../out/production/Module3/S7_Thie_ke_bo_cuc_trang_web/Thuc_hanh/Tao_menu_ngang/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../out/production/Module3/S7_Thie_ke_bo_cuc_trang_web/Thuc_hanh/Tao_menu_ngang/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CaseStudy_SQL/CaseStudy_SQL.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../CaseStudy_SQL/CaseStudy_SQL.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/classes/java/main/controllor/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/classes/java/main/controllor/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/classes/java/main/dao/IUserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/classes/java/main/dao/IUserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/classes/java/main/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/classes/java/main/dao/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/libs/JSP-Servlet-JDBC-MySQL-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/libs/JSP-Servlet-JDBC-MySQL-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/src/main/java/controllor/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/src/main/java/controllor/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/src/main/java/dao/IUserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/src/main/java/dao/IUserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/src/main/java/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/src/main/java/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/src/main/webapp/user/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/build/classes/java/main/controllor/UserServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/build/classes/java/main/dao/IUserDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/build/classes/java/main/dao/UserDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/build/classes/java/main/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/build/libs/JSP-Servlet-JDBC-MySQL-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/java/controllor/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/java/controllor/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/java/dao/IUserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/java/dao/IUserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/java/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/java/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/webapp/user/find.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/webapp/user/find.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/webapp/user/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/demo.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../S12_JDBC_CRUD/Thuc_hanh/demo.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/6.8/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.idea/modules/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/build/classes/java/main/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/build/libs/simple_login-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/src/main/java/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/libraries-with-intellij-classes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/modules/server_time.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/build/classes/java/main/ServerTimeServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/build/libs/server_time-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/src/main/java/ServerTimeServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/6.8/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.idea/libraries-with-intellij-classes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.idea/modules/Ung_dung_chuyen_doi_tien_te.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/build/libs/convert_servlet-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/src/main/webapp/index.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="20kyNwEL2osOW9qVSj27A59Ecjs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5692eb65-b91a-4b5f-8da4-b8abb899b8c6" name="Default Changelist" comment="" />
+      <created>1636602844105</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636602844105</updated>
+      <workItem from="1636602846073" duration="12000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
