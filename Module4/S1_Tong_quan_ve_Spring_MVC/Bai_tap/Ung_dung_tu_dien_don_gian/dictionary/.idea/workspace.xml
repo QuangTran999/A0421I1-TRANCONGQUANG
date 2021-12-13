@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a2669d1-ba6d-43d4-ae5f-a9cb738fcbe5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.gradle/6.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.gradle/6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.idea/libraries/Java_EE_6_Java_EE_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.idea/libraries/thuvien1_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.idea/libraries/thuvien1_1_0_SNAPSHOT__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/build/classes/java/main/controller/StudentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/build/classes/java/main/model/bean/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/build/classes/java/main/model/repository/StudentRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/build/classes/java/main/model/repository/impl/BaseRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/build/classes/java/main/model/repository/impl/StudentRepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/build/classes/java/main/model/service/StudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/build/classes/java/main/model/service/impl/StudentServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/build/libs/A0421MVC-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/build/tmp/jar/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/lib/javax.servlet.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/lib/javax.transaction.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/java/controller/StudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/java/model/bean/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/java/model/repository/StudentRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/java/model/repository/impl/BaseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/java/model/repository/impl/StudentRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/java/model/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/java/model/service/impl/StudentServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/bootstrap-4.6.0-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/jquery/jquery-3.6.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/view/student/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/view/student/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/view/student/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC -Callable-validate/src/main/webapp/view/student/list1.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/build/classes/java/main/Controllor/CustomerServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/bootstrap413/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/css/dataTables.bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/css/dataTables.bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/css/dataTables.bootstrap4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/css/dataTables.bootstrap4.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/css/dataTables.foundation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/css/dataTables.foundation.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/css/dataTables.jqueryui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/css/dataTables.jqueryui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/css/dataTables.semanticui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/css/dataTables.semanticui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/css/jquery.dataTables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/css/jquery.dataTables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/images/sort_asc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/images/sort_asc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/images/sort_both.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/images/sort_desc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/images/sort_desc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/js/dataTables.bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/js/dataTables.bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/js/dataTables.bootstrap4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/js/dataTables.bootstrap4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/js/dataTables.foundation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/js/dataTables.foundation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/js/dataTables.jqueryui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/js/dataTables.jqueryui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/js/dataTables.semanticui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/js/dataTables.semanticui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/js/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/datatables/js/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/static/jquery/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/M3-paging-sorting-jsp-servlet-client.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.gradle/5.2.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.gradle/5.2.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.idea/demo-paging-sorting-jsp-servlet.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/build/classes/java/main/controller/StudentServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/build/classes/java/main/model/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/build/libs/demo-paging-sorting-jsp-servlet-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/java/controller/StudentServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/java/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/bootstrap413/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/css/dataTables.bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/css/dataTables.bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/css/dataTables.bootstrap4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/css/dataTables.bootstrap4.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/css/dataTables.foundation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/css/dataTables.foundation.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/css/dataTables.jqueryui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/css/dataTables.jqueryui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/css/dataTables.semanticui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/css/dataTables.semanticui.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/css/jquery.dataTables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/css/jquery.dataTables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/images/sort_asc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/images/sort_asc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/images/sort_both.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/images/sort_desc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/images/sort_desc_disabled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/js/dataTables.bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/js/dataTables.bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/js/dataTables.bootstrap4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/js/dataTables.bootstrap4.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/js/dataTables.foundation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/js/dataTables.foundation.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/js/dataTables.jqueryui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/js/dataTables.jqueryui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/js/dataTables.semanticui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/js/dataTables.semanticui.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/js/jquery.dataTables.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/datatables/js/jquery.dataTables.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/jquery/jquery-3.5.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/M3-paging-sorting-jsp-servlet-client/demo-paging-sorting-jsp-servlet/src/main/webapp/test-paging-sorting.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.idea/modules/exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.idea/modules/exam_demo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/build/libs/exam_demo1-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/java/controllor/ProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/java/model/bean/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/java/model/connect/ConnectionMySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/java/model/service/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/java/model/service/ProductServiceIplm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/css/bootstrap-grid.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/css/bootstrap-reboot.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/static/bootstrap-4.6.0-dist/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/view/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/view/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/view/home.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_demo1/src/main/webapp/view/product.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_module3/exam/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_module3/exam/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_module3/exam/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_module3/exam/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_module3/exam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_module3/exam/.idea/modules/exam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_module3/exam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_module3/exam/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_module3/exam/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_module3/exam/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_module3/exam/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_module3/exam/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_module3/exam/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../Module3/src/exam_module3/exam/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ung_dung_chuyen_doi_tien_te/demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ung_dung_chuyen_doi_tien_te/demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ung_dung_chuyen_doi_tien_te/demo/.idea/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ung_dung_chuyen_doi_tien_te/demo/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ung_dung_chuyen_doi_tien_te/demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ung_dung_chuyen_doi_tien_te/demo/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ung_dung_chuyen_doi_tien_te/demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ung_dung_chuyen_doi_tien_te/demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ung_dung_chuyen_doi_tien_te/demo/.idea/modules/demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Ung_dung_chuyen_doi_tien_te/demo/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/customer-management" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.gradle/6.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.gradle/6.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.gradle/6.1/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.gradle/6.1/fileContent/fileContent.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.gradle/6.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.gradle/6.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.gradle/6.1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.gradle/6.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.gradle/6.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.gradle/6.1/javaCompile/taskHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/build/classes/java/main/vn/codegym/controller/CustomerController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/build/classes/java/main/vn/codegym/service/CustomerService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/build/classes/java/main/vn/codegym/service/CustomerServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/build/libs/demo2-1.0-SNAPSHOT.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/build/tmp/war/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/src/main/java/vn/codegym/controller/CustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/src/main/java/vn/codegym/service/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/src/main/java/vn/codegym/service/CustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/src/main/webapp/WEB-INF/views/create.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/src/main/webapp/WEB-INF/views/display.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/2/demo2/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.gradle/6.8/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.gradle/6.8/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/src/main/java/com/codegym/controller/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/src/main/webapp/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/src/main/webapp/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Thuc_hanh/Tao_ung_dung_Spring_Greeting/spring-greeting/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Tai_lieu/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Tai_lieu/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Tai_lieu/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/EXAM/File/ReadAndWriteFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/EXAM/controllers/ProductController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/EXAM/models/SPNhapKhau.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/EXAM/models/SPXuatKhau.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/EXAM/models/SanPham.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/EXAM/services/impl/SanPhamImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/EXAM/services/sanpham.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/S10_Danh_Sach/Thuc_hanh/Trien_khai_lop_list_don_gian/MyList.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/S10_Danh_Sach/Thuc_hanh/Trien_khai_lop_list_don_gian/MyList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/S10_Danh_Sach/Thuc_hanh/Trien_khai_lop_list_don_gian/MyListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/S10_Danh_Sach/Thuc_hanh/Trien_khai_lop_list_don_gian/MyListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/S12_Java_Collection/Bai_tap/Luyen_tap_su_dung_ArrayList_LinkedList_trong_Java_Collection_Framework/MyListTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/S12_Java_Collection/Bai_tap/Luyen_tap_su_dung_ArrayList_LinkedList_trong_Java_Collection_Framework/MyListTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/S12_Java_Collection/Bai_tap/Luyen_tap_su_dung_ArrayList_LinkedList_trong_Java_Collection_Framework/ProductManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/S12_Java_Collection/Bai_tap/Luyen_tap_su_dung_ArrayList_LinkedList_trong_Java_Collection_Framework/ProductManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/S12_Java_Collection/Bai_tap/RTTT/ProductManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/S12_Java_Collection/Bai_tap/RTTT/ProductManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/l21_final_examination/ExportedProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/l21_final_examination/ExportedProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/l21_final_examination/ProductManagement.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/l21_final_examination/ProductManagement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/l21_final_examination/products.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/l21_final_examination/products.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/out/production/Module 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/out/production/Module 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/out/production/Module 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/out/production/Module 2/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/out/production/Module 2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/out/production/Module 2/Module 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/out/production/Module 2/sample/A0421I1/sample1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/out/production/Module 2/sample/A0421I1/sample2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/out/production/Module 2/sample/A0421I1/sample2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/out/production/Module 2/sample/A0421I1/sample3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/sample/A0421I1/sample2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/out/production/Module 2/sample/A0421I1/sample3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/src/S10_Danh_Sach/Thuc_hanh/Trien_khai_lop_list_don_gian/MyList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module 2/src/S10_Danh_Sach/Thuc_hanh/Trien_khai_lop_list_don_gian/MyList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/src/S10_Danh_Sach/Thuc_hanh/Trien_khai_lop_list_don_gian/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module 2/src/S10_Danh_Sach/Thuc_hanh/Trien_khai_lop_list_don_gian/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/src/S12_Java_Collection/Bai_tap/Luyen_tap_su_dung_ArrayList_LinkedList_trong_Java_Collection_Framework/MyListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module 2/src/S12_Java_Collection/Bai_tap/Luyen_tap_su_dung_ArrayList_LinkedList_trong_Java_Collection_Framework/MyListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/src/S12_Java_Collection/Bai_tap/Luyen_tap_su_dung_ArrayList_LinkedList_trong_Java_Collection_Framework/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module 2/src/S12_Java_Collection/Bai_tap/Luyen_tap_su_dung_ArrayList_LinkedList_trong_Java_Collection_Framework/ProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/src/S12_Java_Collection/Bai_tap/RTTT/ProductManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module 2/src/S12_Java_Collection/Bai_tap/RTTT/ProductManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/src/l21_final_examination/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module 2/src/l21_final_examination/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module 2/src/l21_final_examination/products.csv" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module 2/src/l21_final_examination/products.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/.idea/artifacts/demo_packaging.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/Tài liệu/CG-DN Case Study for JSP&amp;Servlet.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/Tài liệu/CG-DN Case Study for JSP&amp;Servlet.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/Tài liệu/CG_DN - Audit Module3.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/Tài liệu/CG_DN - Audit Module3.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC/.idea/A0421MVC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/demo/A0421MVC/.idea/A0421MVC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/demo/demoJSTL/.idea/demoJSTL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/demo/demoJSTL/.idea/demoJSTL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/out/production/Module3/CaseStudy_SQL/CaseStudy_SQL.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/out/production/Module3/CaseStudy_SQL/CaseStudy_SQL.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/out/production/Module3/S7_Thie_ke_bo_cuc_trang_web/Thuc_hanh/Tao_menu_ngang/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/out/production/Module3/S7_Thie_ke_bo_cuc_trang_web/Thuc_hanh/Tao_menu_ngang/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_SQL/CaseStudy_SQL.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_SQL/CaseStudy_SQL.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.idea/Furama-Servlet-JSP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.idea/modules/Furama-Servlet-JSP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.idea/modules/Furama-Servlet-JSP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/build/classes/java/main/Model/Bean/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/build/classes/java/main/Model/Bean/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/build/classes/java/main/Model/ConnectMySQL/ConnectionMySQL.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/build/classes/java/main/Model/ConnectMySQL/ConnectionMySQL.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/build/classes/java/main/Model/Service/CustomerService/CustomerService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/build/classes/java/main/Model/Service/CustomerService/CustomerService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/build/classes/java/main/Model/Service/CustomerService/CustomerServiceIplm.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/build/classes/java/main/Model/Service/CustomerService/CustomerServiceIplm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Controllor/ContractDetailServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Controllor/ContractDetailServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Controllor/ContractServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Controllor/ContractServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Controllor/CustomerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Controllor/CustomerServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Controllor/EmployeeServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Controllor/EmployeeServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Controllor/ServiceServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Controllor/ServiceServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Bean/Contract.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Bean/Contract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Bean/ContractDetail.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Bean/ContractDetail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Bean/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Bean/Customer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Bean/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Bean/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Bean/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Bean/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/ConnectMySQL/ConnectionMySQL.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/ConnectMySQL/ConnectionMySQL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/ContractDetailService/ContractDetailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/ContractDetailService/ContractDetailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/ContractDetailService/ContractDetailServiceIplm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/ContractDetailService/ContractDetailServiceIplm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/ContractService/ContractService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/ContractService/ContractService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/ContractService/ContractServiceIplm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/ContractService/ContractServiceIplm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/CustomerService/CustomerService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/CustomerService/CustomerService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/CustomerService/CustomerServiceIplm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/CustomerService/CustomerServiceIplm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/EmployeeService/EmployeeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/EmployeeService/EmployeeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/EmployeeService/EmployeeServiceIplm.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/EmployeeService/EmployeeServiceIplm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/ServiceService/ServiceService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/ServiceService/ServiceService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/ServiceService/ServiceServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/java/Model/Service/ServiceService/ServiceServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/common/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/common/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/common/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/common/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/css/css-footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/css/css-footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/css/positon-booster-footer.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/css/positon-booster-footer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/contract/contract.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/contract/contract.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/contract/createContract.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/contract/createContract.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/contract_detail/contractDetail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/contract_detail/contractDetail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/contract_detail/createContractDetail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/contract_detail/createContractDetail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/customer/createCustomer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/customer/createCustomer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/customer/customer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/customer/customer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/customer/editCustomer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/customer/editCustomer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/employee/createEmployee.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/employee/createEmployee.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/employee/editEmployee.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/employee/editEmployee.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/employee/employee.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/employee/employee.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/service/createService.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/service/createService.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/service/service.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/CaseStudy_Servlet/Furama-Servlet-JSP/src/main/webapp/view/service/service.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S11_MVC_Model/Thuc_hanh/Ung_dung_quan_ly_khach_hang/customer-management/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.idea/JSP-Servlet-JDBC-MySQL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/.idea/JSP-Servlet-JDBC-MySQL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/classes/java/main/controllor/UserServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/classes/java/main/controllor/UserServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/classes/java/main/dao/IUserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/classes/java/main/dao/IUserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/classes/java/main/dao/UserDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/classes/java/main/dao/UserDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/libs/JSP-Servlet-JDBC-MySQL-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/libs/JSP-Servlet-JDBC-MySQL-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/src/main/java/controllor/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/src/main/java/controllor/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/src/main/java/dao/IUserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/src/main/java/dao/IUserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/src/main/java/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/src/main/java/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/src/main/webapp/user/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Bai_tap/Cap_nhat_ung_dung_quan_ly_User/JSP-Servlet-JDBC-MySQL/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/build/classes/java/main/controllor/UserServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/build/classes/java/main/dao/IUserDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/build/classes/java/main/dao/UserDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/build/classes/java/main/model/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/build/libs/JSP-Servlet-JDBC-MySQL-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/java/controllor/UserServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/java/controllor/UserServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/java/dao/IUserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/java/dao/IUserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/java/dao/UserDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/java/dao/UserDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/webapp/user/find.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/webapp/user/find.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/webapp/user/list.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/Quan_ly_User_su_dung_JSP_Servlet_JDBC_MySQL/JSP-Servlet-JDBC-MySQL/src/main/webapp/user/list.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/demo.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S12_JDBC_CRUD/Thuc_hanh/demo.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S14_Packaging_Dependency_Mângement/Bai_tap/PTB2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S14_Packaging_Dependency_Mângement/Bai_tap/PTB2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3/src/S14_Packaging_Dependency_Mângement/Thuc_hanh/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../Module3/src/S14_Packaging_Dependency_Mângement/Thuc_hanh/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/6.8/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.idea/modules/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/build/classes/java/main/LoginServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/build/libs/simple_login-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/src/main/java/LoginServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_dang_nhap_va_hien_thi_loi_chao/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/libraries-with-intellij-classes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/modules/server_time.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/build/classes/java/main/ServerTimeServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/build/libs/server_time-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/src/main/java/ServerTimeServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Tao_trang_web_hien_thi_thoi_gian_he_thong/server_time/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/6.8/fileChanges/last-build.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/6.8/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/checksums/checksums.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/configuration-cache/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.gradle/vcs-1/gc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.idea/libraries-with-intellij-classes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.idea/modules/Ung_dung_chuyen_doi_tien_te.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/build/libs/convert_servlet-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/build/tmp/war/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../Module3_web/S9_Tong_quan_ung_dung_web/Thuc_hanh/Ung_dung_chuyen_doi_tien_te/src/main/webapp/index.jsp" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectId" id="21fzfgkiF4bwrharDmyxtxKVNRM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a2669d1-ba6d-43d4-ae5f-a9cb738fcbe5" name="Default Changelist" comment="" />
+      <created>1638347034918</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638347034918</updated>
+      <workItem from="1638347036594" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="Configuration-email" external.linked.project.path="$MODULE_DIR$/../../../../../../S4_DataBinding&amp;amp;Form/Bai_tap/Chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/Configuration-email" external.root.project.path="$MODULE_DIR$/../../../../../../S4_DataBinding&amp;amp;Form/Bai_tap/Chuong_trinh_luu_giu_cau_hinh_hom_thu_dien_tu/Configuration-email" external.system.id="GRADLE" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../.." />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

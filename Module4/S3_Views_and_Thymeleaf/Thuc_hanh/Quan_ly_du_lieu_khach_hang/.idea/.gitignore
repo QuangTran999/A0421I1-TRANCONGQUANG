@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\QUANG\CodeGym\ProjectCodeGym\A0421I1-TRANCONGQUANG\Module4\S3_Views_and_Thymeleaf\Thuc_hanh\Quan_ly_du_lieu_khach_hang\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
